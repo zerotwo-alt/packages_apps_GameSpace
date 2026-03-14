@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo, entwéckelt op Game Space/XArena, ass e Produkt spezifesch fir TECNO/Infinix, fir d’Stabilitéit vum Spillnetzwierk ze verbesseren. Et ka Problemer mat héijer Latenz, getrennter Verbindung, etc. behiewen an erhéicht d’Flëssegleet vum Netzwierk an d’Stabilitéit vum Spill. Et ënnerstëtzt Wi-Fi an aner Datennetzwierker (5G/4G/3G).</item>
+        <item>Game Turbo ënnerstëtzt schonn déi meeschte Spiller. Wa verschidde Spiller net geboost kënne ginn, kanns du de Clientsservice fir Hëllef kontaktéieren.</item>
+        <item>TECNO/Infinix ID ass de Kont vum Spiller, deen d’Xunyou Game Turbo-Servicer an der Game Space/XArena benotzt. All Kont ka relevant gratis Virdeeler kréien an d’Servicer no der Umeldung boosten.</item>
+        <item>1. Aktualiséieren, fir d’Bezuelnetzwierk ze iwwerpréiwen. 2. Iwwerpréif, ob de Stand um Bezuelkonto duer geet, fir d’Bezuelung ze decken.</item>
+        <item>Tipp wgl. de Link ënnen un, fir d’%1$s an d’%2$s ze liesen.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Wat ass d’Funktioun vum Game Turbo?</item>
+        <item>Wéi eng Spiller ënnerstëtzt de Game Turbo?</item>
+        <item>Wéi e Kont ass mam Game Turbo verbonnen?</item>
+        <item>Wéi léisen ech Bezuelproblemer?</item>
+        <item>Wou kann ech d’Dateschutzerklärung an d’Benotzerofkommes liesen?</item>
+    </string-array>
+</resources>

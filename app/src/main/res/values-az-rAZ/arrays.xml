@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Lütfən, %1$s və %2$s sənədlərini oxumaq üçün aşağıdakı linkə toxunun.</item>
+        <item>Lütfən, %1$s və %2$s sənədlərini oxumaq üçün aşağıdakı linkə toxunun.</item>
+        <item>Lütfən, %1$s və %2$s sənədlərini oxumaq üçün aşağıdakı linkə toxunun.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo is ingebouwd in Gameruimte/XArena en is een product dat speciaal is ontworpen voor TECNO/Infinix om de stabiliteit van het gamenetwerk te verbeteren. Het kan de problemen van hoge latentie, verbreken van de verbinding, enz. oplossen en het netwerk soepeler en de game stabieler maken. Het ondersteunt wifi en andere datanetwerken (5G/4G/3G).</item>
+        <item>Het Turbospel ondersteunt al de meeste games. Als sommige games niet kunnen worden geboost, kun je contact opnemen met de online klantendienst voor ondersteuning.</item>
+        <item>TECNO/Infinix ID is de account van de speler die gebruik maakt van de Xunyou Game Turbo-services in de Gameruimte/XArena. Elke account kan relevante gratis voordelen en boost-diensten krijgen na aanmelding.</item>
+        <item>1. Vernieuwen om het betalingsnetwerk te controleren. 2. Controleer of het saldo van de betaalrekening toereikend is om de betaling te ondersteunen.</item>
+        <item>Tik op onderstaande link om het%1$s en de %2$ste lezen.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Wat is de functie van het Turbospel?</item>
+        <item>Welke games ondersteunt het Turbospel?</item>
+        <item>Welke account is aan het Turbospel gebonden?</item>
+        <item>Hoe kan ik betalingsproblemen oplossen?</item>
+        <item>Waar kan ik het Privacybeleid en de Gebruikersovereenkomst lezen?</item>
+    </string-array>
+</resources>

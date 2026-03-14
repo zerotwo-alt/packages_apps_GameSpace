@@ -1,0 +1,72 @@
+.class final Lcom/transsion/gamespace/View/GameTagLayout$titleView$2;
+.super Lkotlin/jvm/internal/Lambda;
+.source "SourceFile"
+
+# interfaces
+.implements Lh8/a;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/transsion/gamespace/View/GameTagLayout;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;I)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = null
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Lkotlin/jvm/internal/Lambda;",
+        "Lh8/a;"
+    }
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/transsion/gamespace/View/GameTagLayout;
+
+
+# direct methods
+.method public constructor <init>(Lcom/transsion/gamespace/View/GameTagLayout;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/transsion/gamespace/View/GameTagLayout$titleView$2;->this$0:Lcom/transsion/gamespace/View/GameTagLayout;
+
+    const/4 p1, 0x0
+
+    invoke-direct {p0, p1}, Lkotlin/jvm/internal/Lambda;-><init>(I)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke()Lcom/transsion/common/widget/SimpleMarquee;
+    .locals 1
+
+    .line 2
+    iget-object p0, p0, Lcom/transsion/gamespace/View/GameTagLayout$titleView$2;->this$0:Lcom/transsion/gamespace/View/GameTagLayout;
+
+    sget v0, Lv3/h;->k3:I
+
+    invoke-virtual {p0, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object p0
+
+    check-cast p0, Lcom/transsion/common/widget/SimpleMarquee;
+
+    return-object p0
+.end method
+
+.method public bridge synthetic invoke()Ljava/lang/Object;
+    .locals 0
+
+    .line 1
+    invoke-virtual {p0}, Lcom/transsion/gamespace/View/GameTagLayout$titleView$2;->invoke()Lcom/transsion/common/widget/SimpleMarquee;
+
+    move-result-object p0
+
+    return-object p0
+.end method

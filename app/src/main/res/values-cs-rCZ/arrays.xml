@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Funkce Xunyou Game Turbo, která je součástí aplikaceHerní místo/XArena, je speciálně navržena pro hry TECNO/Infinix a zvyšuje stabilitu herní sítě. Dokáže vyřešit problémy s vysokou latencí, odpojováním apod. a zajistí plynulejší chod sítě a vyšší stabilitu hry. Podporuje Wi-Fi a další datové sítě (5G/4G/3G).</item>
+        <item>Herní turbo již podporuje většinu her. Pokud některé hry nelze zrychlit, můžete požádat o podporu online zákaznický servis.</item>
+        <item>Účtem hráče využívajícím služby Xunyou Game Turbo v aplikaci Herní místo/XArena je TECNO/Infinix ID. Každý účet získá po přihlášení odpovídající bezplatné výhody a služby zrychlení.</item>
+        <item>1. Proveďte obnovení a zkontrolujte platební síť. 2. Zkontrolujte, jestli je na platebním účtu dostatečný zůstatek pro provedení platby.</item>
+        <item>Klepněte na odkaz níže a přečtěte si dokumenty %1$s a %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Jak funguje herní turbo?</item>
+        <item>Které hry herní turbo podporuje?</item>
+        <item>Který účet je s herním turbem propojen?</item>
+        <item>Jak vyřešit problémy s platbami?</item>
+        <item>Kde naleznete Zásady ochrany soukromí a Uživatelskou smlouvu?</item>
+    </string-array>
+</resources>

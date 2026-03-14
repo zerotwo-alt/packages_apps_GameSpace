@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/progress" android:layout_width="189.0dip" android:layout_height="4.0dip">
+        <shape android:shape="rectangle">
+            <gradient android:startColor="@color/progressbar_start" android:endColor="@color/progressbar_end" android:angle="180.0" android:type="linear" />
+            <corners android:radius="@dimen/os_progress_height" />
+        </shape>
+    </item>
+</layer-list>

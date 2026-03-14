@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="allow_clear_user_data_false">false</bool>
+    <bool name="def_addiction">true</bool>
+    <bool name="def_anti_inadvertently">true</bool>
+    <bool name="def_app_check">false</bool>
+    <bool name="def_brightness">true</bool>
+    <bool name="def_game_acceleration">true</bool>
+    <bool name="def_panel">true</bool>
+    <bool name="elegantTextHeight">false</bool>
+    <bool name="m3_sys_typescale_body_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_body_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_body_small_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_display_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_display_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_display_small_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_headline_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_headline_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_headline_small_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_label_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_label_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_label_small_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_title_large_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_title_medium_text_all_caps">false</bool>
+    <bool name="m3_sys_typescale_title_small_text_all_caps">false</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="os_custom_platform_color">false</bool>
+    <bool name="os_custom_theme">false</bool>
+    <bool name="os_flag_refs_pad_value">false</bool>
+    <bool name="os_is_light_status_bar">true</bool>
+    <bool name="sdk_logout_is_show">true</bool>
+    <bool name="window_light_status_bar">true</bool>
+</resources>

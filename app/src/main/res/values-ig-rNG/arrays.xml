@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Ohere Egwuregwu/XArena nke arụnyere n’ime Xunyou Egwuregwu Turbo bụ ngwahịa arụrụ kpọmkwem maka TECNO/Infinix iji mezie ọkwụkwụ netwọk egwuregwu. O nwere ike imezi nsogbu nke oke latensi, mwepụ njikọ, wdg. ma mee ka netwọk na-aga ọfụma ma egwuregwu akwụdosi ike. Ọ na-akwado Wi-Fi na netwọk data ndị ọzọ (5G/4G/3G).</item>
+        <item>Egwuregwu turbo na-akwado ọtụtụ egwuregwu. Ọ bụrụ na e nweghi ike ịkwalite ụfọdụ egwuregwu, ị nwere ike ịkpọtụrụ ọrụ nlekọta onye ahịa n’ikuku maka nkwado.</item>
+        <item>TECNO/Infinix ID bụ akaụntụ onye ọgbụgba na-ejikwa ọrụ Xunyou Egwuregwu Turbo N’ime Ohere Egwuregwu/XArena. Akaụntụ niile nwere ike ịnweta ihe nrite ndị nwere isi ma kwalite ọrụ ka abanyesịrị.</item>
+        <item>1. Kwadogharịa iji lelee netwọk ịkwụ ụgwọ. 2. Lelee ma ihe họrọ na akaụntụ ịkwụ ụgwọ ahụ ga-ezu ịkwado ịkwụ ụgwọ ahụ.</item>
+        <item>"Biko kpatụ aka na ọgbara njikọ dị n'okpuru iji gụọ %1$s na %2$s."</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Kedu ọrụ egwuregwu turbo?</item>
+        <item>Kedu egwuregwu ndị egwuregwu turbo na-akwado?</item>
+        <item>Kedu akaụntụ nọ n’okpuru egwuregwu turbo?</item>
+        <item>Etu esi emezi nsogbu ịkwụ ụgwọ?</item>
+        <item>Ebe a ga-agụ Iwu Nzuzo na Nkwekọrịta Onye Ojiji?</item>
+    </string-array>
+</resources>

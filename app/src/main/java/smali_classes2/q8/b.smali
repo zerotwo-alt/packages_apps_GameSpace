@@ -1,0 +1,80 @@
+.class public final Lq8/b;
+.super Lq8/e;
+.source "SourceFile"
+
+
+# static fields
+.field public static final g:Lq8/b;
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 1
+
+    new-instance v0, Lq8/b;
+
+    invoke-direct {v0}, Lq8/b;-><init>()V
+
+    sput-object v0, Lq8/b;->g:Lq8/b;
+
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 6
+
+    sget v1, Lq8/k;->c:I
+
+    sget v2, Lq8/k;->d:I
+
+    sget-wide v3, Lq8/k;->e:J
+
+    sget-object v5, Lq8/k;->a:Ljava/lang/String;
+
+    move-object v0, p0
+
+    invoke-direct/range {v0 .. v5}, Lq8/e;-><init>(IIJLjava/lang/String;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public close()V
+    .locals 1
+
+    new-instance p0, Ljava/lang/UnsupportedOperationException;
+
+    const-string v0, "Dispatchers.Default cannot be closed"
+
+    invoke-direct {p0, v0}, Ljava/lang/UnsupportedOperationException;-><init>(Ljava/lang/String;)V
+
+    throw p0
+.end method
+
+.method public limitedParallelism(I)Lkotlinx/coroutines/CoroutineDispatcher;
+    .locals 1
+
+    invoke-static {p1}, Lkotlinx/coroutines/internal/o;->a(I)V
+
+    sget v0, Lq8/k;->c:I
+
+    if-lt p1, v0, :cond_0
+
+    return-object p0
+
+    :cond_0
+    invoke-super {p0, p1}, Lkotlinx/coroutines/CoroutineDispatcher;->limitedParallelism(I)Lkotlinx/coroutines/CoroutineDispatcher;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public toString()Ljava/lang/String;
+    .locals 0
+
+    const-string p0, "Dispatchers.Default"
+
+    return-object p0
+.end method

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="56.0dip">
+        <ImageView android:id="@id/ivClose" android:layout_width="56.0dip" android:layout_height="fill_parent" android:src="@drawable/palm_os_web_close" android:scaleType="centerInside" />
+        <TextView android:textSize="16.0sp" android:textColor="@color/black" android:id="@id/tvTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="8.0dip" android:layout_toEndOf="@id/ivClose" />
+        <ProgressBar android:id="@id/progressBar" android:layout_width="fill_parent" android:layout_height="1.0dip" android:indeterminate="true" android:layout_alignParentBottom="true" style="@style/Widget.AppCompat.ProgressBar.Horizontal" />
+    </RelativeLayout>
+    <WebView android:id="@id/webView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/title_bar" />
+</RelativeLayout>

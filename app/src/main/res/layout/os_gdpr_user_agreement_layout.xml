@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:paddingTop="@dimen/user_agreement_top_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/user_agreement_start_padding" android:paddingEnd="@dimen/user_agreement_end_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="12.0sp" android:textColor="@color/os_gdpr_text_secondary_color" android:id="@id/contentTv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textDirection="locale" android:textAlignment="viewStart" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_below="@id/contentTv" android:layout_centerHorizontal="true" android:layoutDirection="locale">
+        <Button android:id="@id/cancelBtn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/os_gdpr_cancel_btn" android:layout_weight="1.0" style="@style/os_gdpr_cancel_btn_style" />
+        <Button android:id="@id/agreeBtn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/os_gdpr_accept_btn" android:layout_weight="1.0" android:layout_marginStart="10.0dip" style="@style/os_gdpr_positive_btn_style" />
+    </LinearLayout>
+</RelativeLayout>

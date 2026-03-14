@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo byggt í Leikjasvæði / XArena er vara sérstaklega hönnuð fyrir TECNO / Infinix til að bæta stöðugleika leikjanetsins. Það getur leyst vandamál eins og langan biðtíma, aftengingu, o.s.frv. og gert netkerfið og leikinn stöðugri. Það styður Wi-Fi og önnur gagnanet (5G / 4G / 3G).</item>
+        <item>Leikjatúrbó styður nú þegar flesta leiki. Ef ekki er hægt að styrkja suma leiki getur þú haft samband við þjónustuver á netinu.</item>
+        <item>TECNO/Infinix ID er aðgangur spilara sem notar Xunyou Game Turbo þjónustur í Leikjasvæði/XArena. Hver aðgangur fær viðeigandi ókeypis fríðindi og styrkingarþjónustur eftir innskráningu.</item>
+        <item>1. Endurnýjaðu til að athuga greiðslukerfið. 2. Athugaðu hvort innistæðan á greiðslureikningnum dugar fyrir greiðslunni.</item>
+        <item>Pikkaðu á tengilinn hér fyrir neðan til að lesa %1$s og %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Hvað gerir leikjatúrbó?</item>
+        <item>Hvaða leiki styður leikjatúrbó?</item>
+        <item>Hvaða aðgangur er tengdur leikjatúrbóinu?</item>
+        <item>Hvernig á að leysa greiðsluvandamál?</item>
+        <item>Hvar á að lesa persónuverndarstefnuna og notandasamninginn?</item>
+    </string-array>
+</resources>

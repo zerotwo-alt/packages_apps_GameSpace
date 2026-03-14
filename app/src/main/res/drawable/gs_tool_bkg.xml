@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="104.0dip" android:width="115.0dip" android:viewportWidth="115.0" android:viewportHeight="104.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/gs_tool_bkg_color" android:pathData="M93.812,11.038L111.111,41C115.041,47.807 115.041,56.193 111.111,63L93.812,92.962C89.882,99.768 82.62,103.962 74.76,103.962L40.163,103.962C32.303,103.962 25.041,99.768 21.111,92.962L3.812,63C-0.118,56.193 -0.118,47.807 3.812,41L21.111,11.038C25.041,4.232 32.303,0.038 40.163,0.038L40.59,0.038L40.59,0.038L74.76,0.038C82.62,0.038 89.882,4.232 93.812,11.038Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+</vector>

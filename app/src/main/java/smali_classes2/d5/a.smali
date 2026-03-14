@@ -1,0 +1,60 @@
+.class public final synthetic Ld5/a;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lcom/transsion/hubsdk/common/bp/TranTimeOutOrExceptionExecute$TimeOutAndExceptionRunnable;
+
+
+# instance fields
+.field public final synthetic a:Lcom/transsion/hubsdk/core/app/role/TranThubRoleManager;
+
+.field public final synthetic b:Ljava/lang/String;
+
+.field public final synthetic c:Ljava/lang/String;
+
+.field public final synthetic d:I
+
+.field public final synthetic e:I
+
+
+# direct methods
+.method public synthetic constructor <init>(Lcom/transsion/hubsdk/core/app/role/TranThubRoleManager;Ljava/lang/String;Ljava/lang/String;II)V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Ld5/a;->a:Lcom/transsion/hubsdk/core/app/role/TranThubRoleManager;
+
+    iput-object p2, p0, Ld5/a;->b:Ljava/lang/String;
+
+    iput-object p3, p0, Ld5/a;->c:Ljava/lang/String;
+
+    iput p4, p0, Ld5/a;->d:I
+
+    iput p5, p0, Ld5/a;->e:I
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final run()Ljava/lang/Object;
+    .locals 4
+
+    iget-object v0, p0, Ld5/a;->a:Lcom/transsion/hubsdk/core/app/role/TranThubRoleManager;
+
+    iget-object v1, p0, Ld5/a;->b:Ljava/lang/String;
+
+    iget-object v2, p0, Ld5/a;->c:Ljava/lang/String;
+
+    iget v3, p0, Ld5/a;->d:I
+
+    iget p0, p0, Ld5/a;->e:I
+
+    invoke-static {v0, v1, v2, v3, p0}, Lcom/transsion/hubsdk/core/app/role/TranThubRoleManager;->a(Lcom/transsion/hubsdk/core/app/role/TranThubRoleManager;Ljava/lang/String;Ljava/lang/String;II)Ljava/lang/Object;
+
+    move-result-object p0
+
+    return-object p0
+.end method

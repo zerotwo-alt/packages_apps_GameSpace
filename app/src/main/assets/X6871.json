@@ -1,0 +1,49 @@
+{
+  "name":"X6871",
+  "baseTags":{
+    "tagMarker":[2,8,6,5],
+    "baseTag":[1,2,1,1,0,0,0,0,0]
+  },
+  "advancedTags":[
+    {
+      "game":["com.mobile.legends"],
+      "tagMarker":[1,2,6,8,3,5,4,9,0],
+      "advancedTag":[1,1,1,2,1,1,1,1,1]
+    },
+    {
+      "game":["com.tencent.tmgp.pubgmhd","com.tencent.ig","vn.vng.pubgmobile","com.pubg.krmobile","com.rekoo.pubgm","com.tencent.iglite"],
+      "tagMarker":[2,6,8,3,0,5,7,9,1],
+      "advancedTag":[1,1,2,1,1,1,1,1,1]
+    },
+    {
+      "game":["com.dts.freefireth","com.dts.freefiremax"],
+      "tagMarker":[0,4,5,1,2,6,8,3],
+      "advancedTag":[1,1,1,2,1,1,2,1]
+    },
+    {
+      "game":["com.garena.game.codm"],
+      "tagMarker":[0,9,2,6,8,3],
+      "advancedTag":[1,1,1,1,2,1]
+    },
+    {
+      "game":["com.ngame.allstar.eu"],
+      "tagMarker":[0,5,2,6,8],
+      "advancedTag":[1,1,1,1,2]
+    },
+    {
+      "game":["com.garena.game.kgtw", "com.garena.game.kgth","com.garena.game.kgvn","com.garena.game.kgid"],
+      "tagMarker":[0,5,2,6,8],
+      "advancedTag":[1,1,1,1,2]
+    },
+    {
+      "game":["com.miHoYo.ys.bilibili", "com.miHoYo.Yuanshen", "com.miHoYo.GenshinImpact"],
+      "tagMarker":[9,5,2,6,8],
+      "advancedTag":[1,1,1,1,2]
+    },
+    {
+      "game":["com.miHoYo.hkrpg","com.HoYoverse.hkrpgoversea"],
+      "tagMarker":[9,5,2,6,8],
+      "advancedTag":[1,1,1,1,2]
+    }
+  ]
+}

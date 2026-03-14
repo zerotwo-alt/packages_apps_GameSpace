@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>O Xunyou Game Turbo integrado ao Espaço de jogos/XArena é um produto desenvolvido especificamente para a TECNO/Infinix para melhorar a estabilidade da rede do jogo. Ele pode resolver os problemas de alta latência, desconexão etc. e tornar a rede mais uniforme e o jogo mais estável. Compatível com Wi-Fi e outras redes de dados (5G/4G/3G).</item>
+        <item>O jogo turbo já é compatível com a maioria dos jogos. Se alguns jogos não puderem ser otimizados, você pode entrar em contato com o serviço de atendimento ao cliente on-line para obter suporte.</item>
+        <item>TECNO/Infinix ID é a conta do jogador que usa os serviços do Xunyou Game Turbo no Espaço de jogos/XArena. Cada conta pode obter benefícios gratuitos relevantes e otimizar os serviços após o login.</item>
+        <item>1. Atualize para verificar a rede de pagamento. 2. Verifique se o saldo da conta de pagamento é suficiente para validar o pagamento.</item>
+        <item>Toque no link abaixo para ler %1$s e %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Qual é a função do jogo turbo?</item>
+        <item>Quais jogos são compatíveis com o jogo turbo?</item>
+        <item>Qual conta está vinculada ao jogo turbo?</item>
+        <item>Como resolver problemas de pagamento?</item>
+        <item>Onde poso ler a Política de privacidade e o Termo de Acordo do Usuário?</item>
+    </string-array>
+</resources>

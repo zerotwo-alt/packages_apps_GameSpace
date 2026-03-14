@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo ugrađen u Prostor za igru/XArena je proizvod posebno dizajniran za TECNO/Infinix da poboljša stabilnost mreže igara. On može da reši probleme velikog kašnjenja, prekida veze itd. i učini mrežu glatkijom, a igru stabilnijom. Podržava Wi-Fi i druge mreže za prenos podataka (5G/4G/3G).</item>
+        <item>Turbo igre već podržava većinu igara. Ako neke igre ne mogu da se pojačaju, možete kontaktirati onlajn korisničku podršku za pomoć.</item>
+        <item>TECNO/Infinix ID je nalog igrača koji koristi Xunyou Game Turbo usluge u Prostor za igru/XArena. Svaki nalog može dobiti relevantne besplatne pogodnosti i poboljšati usluge nakon prijavljivanja.</item>
+        <item>1. Osvežite da biste proverili mrežu plaćanja. 2. Proverite da li je stanje na računu za plaćanje dovoljno da podrži plaćanje.</item>
+        <item>Dodirnite donji link da biste pročitali %1$s i %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Koja je funkcija turbo igre?</item>
+        <item>Koje igre podržava turbo igre?</item>
+        <item>Koji nalog je vezan za turbo igre?</item>
+        <item>Kako rešiti probleme sa plaćanjem?</item>
+        <item>Gde da pročitam Politiku privatnosti i Korisnički ugovor?</item>
+    </string-array>
+</resources>

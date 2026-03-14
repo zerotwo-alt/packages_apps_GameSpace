@@ -1,0 +1,24 @@
+{
+  "name":"LI7",
+  "baseTags":{
+    "tagMarker":[0,5,8],
+    "baseTag":[1,1,2,0,0,0,0,0,0]
+  },
+  "advancedTags":[
+    {
+      "game":["com.mobile.legends"],
+      "tagMarker":[0,5,1,8],
+      "advancedTag":[1,1,2,2,0,0,0,0,0]
+    },
+    {
+      "game":["com.tencent.tmgp.pubgmhd","com.tencent.ig","vn.vng.pubgmobile","com.pubg.krmobile","com.rekoo.pubgm","com.tencent.iglite"],
+      "tagMarker":[0,5,8],
+      "advancedTag":[1,1,2,0,0,0,0,0,0]
+    },
+    {
+      "game":["com.dts.freefireth","com.dts.freefiremax"],
+      "tagMarker":[0,5,8,1],
+      "advancedTag":[1,1,2,2,0,0,0,0,0]
+    }
+  ]
+}

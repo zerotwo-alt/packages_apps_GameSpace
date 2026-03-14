@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/more_type_bg" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.transsion.gamespace.View.MoreTypeItem android:id="@id/xun_you" android:layout_width="fill_parent" android:layout_height="36.0dip" app:mt_icon="@drawable/ic_accelerate_pop" app:mt_title="@string/xunyou_acceleration" />
+    <com.transsion.gamespace.View.MoreTypeItem android:id="@id/magic_voice" android:layout_width="fill_parent" android:layout_height="36.0dip" app:mt_icon="@drawable/ic_magic_voice_pop" app:mt_title="@string/magic_voice" />
+</LinearLayout>

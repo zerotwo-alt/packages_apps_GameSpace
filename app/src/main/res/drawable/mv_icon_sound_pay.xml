@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="17.0dip" android:width="92.0dip" android:viewportWidth="92.0" android:viewportHeight="17.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="#fff3f3f5" android:pathData="M2.442,0H91.882L90.224,11.833C89.809,14.796 87.274,17 84.282,17H3.116C1.472,17 0.209,15.543 0.443,13.916L2.442,0Z" />
+    <path android:fillColor="@drawable/$mv_icon_sound_pay__0" android:pathData="M2.5,0H91.882L89.894,14.186C89.668,15.8 88.288,17 86.658,17H3.473C1.643,17 0.239,15.375 0.505,13.564L2.5,0Z" />
+</vector>

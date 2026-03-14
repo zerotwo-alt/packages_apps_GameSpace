@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo iliyojengwa ndani ya Nafasi ya Mchezo/XArena ni bidhaa iliyoundwa mahususi kwa TECNO/Infinix ili kuboresha uthabiti wa mtandao wa mchezo. Inaweza kutatua matatizo ya uchelewaji wa juu, utenganisho, nk na kufanya mtandao kuwa laini na mchezo imara zaidi. Inaauni Wi-Fi na mitandao mingine ya data (5G/4G/3G).</item>
+        <item>Turbo ya mchezo tayari inaauni michezo mingi. Ikiwa baadhi ya michezo haiwezi kuboreshwa, unaweza kuwasiliana na huduma kwa wateja mtandaoni kwa usaidizi.</item>
+        <item>TECNO/Infinix ID ni akaunti ya mchezaji anayetumia huduma za Xunyou Game Turbo kwenye Game Space/XArena. Kila akaunti inaweza kupata manufaa husika bila malipo na kuboresha huduma baada ya kuingia.</item>
+        <item>1. Onyesha upya ili kuangalia mtandao wa malipo. 2. Angalia ikiwa salio la akaunti ya malipo linatosha kusaidia malipo.</item>
+        <item>Tafadhali gusa kiungo kilicho hapa chini ili kusoma %1$s na %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Je! ni kazi gani ya turbo ya mchezo?</item>
+        <item>Je! Turbo ya mchezo inaauni michezo gani?</item>
+        <item>Je! ni akaunti gani inahusishwa na turbo ya mchezo?</item>
+        <item>Jinsi ya kutatua matatizo ya malipo?</item>
+        <item>Wapi kusoma Sera ya Faragha na Mkataba wa Mtumiaji?</item>
+    </string-array>
+</resources>

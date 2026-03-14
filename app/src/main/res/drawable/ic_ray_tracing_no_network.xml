@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="132.0dip" android:width="189.0dip" android:viewportWidth="189.0" android:viewportHeight="132.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group>
+        <clip-path android:pathData="M0.94,0.63h187.5v131.25h-187.5z" />
+        <path android:fillColor="#ff424242" android:pathData="M16.56,102.19a78.13,23.13 0,1 0,156.25 0a78.13,23.13 0,1 0,-156.25 0z" android:strokeAlpha="0.7" android:fillAlpha="0.4" />
+        <path android:fillColor="@drawable/$ic_ray_tracing_no_network__0" android:pathData="M93.75,59.06m29.38,0a29.38,29.38 0,1 0,-58.75 0a29.38,29.38 0,1 0,58.75 0" />
+        <path android:fillColor="@drawable/$ic_ray_tracing_no_network__1" android:pathData="M82.81,65m5.94,0a5.94,5.94 0,1 0,-11.88 0a5.94,5.94 0,1 0,11.88 0" />
+        <path android:fillColor="@drawable/$ic_ray_tracing_no_network__2" android:pathData="M118.44,60.31m3.13,0a3.13,3.13 0,1 0,-6.25 0a3.13,3.13 0,1 0,6.25 0" />
+        <path android:fillColor="@drawable/$ic_ray_tracing_no_network__3" android:pathData="M89.22,39.84m2.66,0a2.66,2.66 0,1 0,-5.31 0a2.66,2.66 0,1 0,5.31 0" />
+        <path android:fillColor="@drawable/$ic_ray_tracing_no_network__4" android:pathData="M102.66,55.16m1.72,0a1.72,1.72 0,1 0,-3.44 0a1.72,1.72 0,1 0,3.44 0" />
+        <path android:fillColor="#ff424242" android:pathData="M122.14,44.71C131.42,44.88 137.71,46.88 138.64,50.6C140.4,57.68 122.15,68.32 97.88,74.37C73.61,80.42 52.5,79.59 50.73,72.52C49.66,68.21 56.01,62.57 66.63,57.46C66.8,57.75 66.99,58.04 67.18,58.32C57.68,62.91 52.02,67.86 52.96,71.62C54.54,77.95 74.22,78.49 96.92,72.83C119.62,67.17 136.74,57.45 135.16,51.12C134.43,48.16 129.72,46.46 122.59,46.08C122.46,45.62 122.31,45.16 122.14,44.71Z" android:fillAlpha="0.41" android:fillType="evenOdd" />
+    </group>
+</vector>

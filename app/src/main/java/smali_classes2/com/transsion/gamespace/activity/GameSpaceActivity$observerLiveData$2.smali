@@ -1,0 +1,104 @@
+.class final Lcom/transsion/gamespace/activity/GameSpaceActivity$observerLiveData$2;
+.super Lkotlin/jvm/internal/Lambda;
+.source "SourceFile"
+
+# interfaces
+.implements Lh8/l;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/transsion/gamespace/activity/GameSpaceActivity;->j2()V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = null
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Lkotlin/jvm/internal/Lambda;",
+        "Lh8/l;"
+    }
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/transsion/gamespace/activity/GameSpaceActivity;
+
+
+# direct methods
+.method public constructor <init>(Lcom/transsion/gamespace/activity/GameSpaceActivity;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/transsion/gamespace/activity/GameSpaceActivity$observerLiveData$2;->this$0:Lcom/transsion/gamespace/activity/GameSpaceActivity;
+
+    const/4 p1, 0x1
+
+    invoke-direct {p0, p1}, Lkotlin/jvm/internal/Lambda;-><init>(I)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public bridge synthetic invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 0
+
+    .line 1
+    check-cast p1, Ljava/lang/Boolean;
+
+    invoke-virtual {p0, p1}, Lcom/transsion/gamespace/activity/GameSpaceActivity$observerLiveData$2;->invoke(Ljava/lang/Boolean;)V
+
+    sget-object p0, Ly7/j;->a:Ly7/j;
+
+    return-object p0
+.end method
+
+.method public final invoke(Ljava/lang/Boolean;)V
+    .locals 2
+
+    .line 2
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-direct {v0}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v1, "getMagicVoiceHot().observe: show="
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v0, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object p1
+
+    const-string v0, "Game_Space"
+
+    invoke-static {v0, p1}, Lcom/transsion/common/smartutils/util/z;->a(Ljava/lang/String;Ljava/lang/String;)V
+
+    .line 3
+    iget-object p0, p0, Lcom/transsion/gamespace/activity/GameSpaceActivity$observerLiveData$2;->this$0:Lcom/transsion/gamespace/activity/GameSpaceActivity;
+
+    invoke-static {p0}, Lcom/transsion/gamespace/activity/GameSpaceActivity;->D0(Lcom/transsion/gamespace/activity/GameSpaceActivity;)Lcom/transsion/gamespace/viewmodel/GameSpaceViewModel;
+
+    move-result-object p1
+
+    if-nez p1, :cond_0
+
+    const-string p1, "viewModel"
+
+    invoke-static {p1}, Lkotlin/jvm/internal/i;->w(Ljava/lang/String;)V
+
+    const/4 p1, 0x0
+
+    :cond_0
+    invoke-virtual {p1}, Lcom/transsion/gamespace/viewmodel/GameSpaceViewModel;->j()Z
+
+    move-result p1
+
+    invoke-static {p0, p1}, Lcom/transsion/gamespace/activity/GameSpaceActivity;->g1(Lcom/transsion/gamespace/activity/GameSpaceActivity;Z)V
+
+    return-void
+.end method

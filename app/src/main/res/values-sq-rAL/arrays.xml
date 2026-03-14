@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Përforcuesi i lojërave Xunyou i integruar te Hapësira e lojërave/XArena është një produkt i dizajnuar posaçërisht për TECNO/Infinix, për të përmirësuar qëndrueshmërinë e rrjetit të lojës. Ai mund të zgjidhë problemet e vonesës së madhe, shkëputjes etj. dhe ta bëjë rrjetin më të rrjedhshëm dhe lojën më të qëndrueshme. Mbështet Wi-Fi dhe rrjetet e tjera të të dhënave celulare (5G/4G/3G).</item>
+        <item>Turboja e lojës mbështet aktualisht shumicën e lojërave. Nëse disa lojëra nuk mund të përforcohen, mund të kontaktoni shërbimin online ndaj klientit për mbështetje.</item>
+        <item>TECNO/Infinix ID është llogaria e lojtarit që përdor shërbimet e përforcuesit të lojërave Xunyou te Hapësira e lojërave/XArena. Çdo llogari mund të marrë përfitime dhe shërbime përforcimi falas pas identifikimit.</item>
+        <item>1. Bëni një freskim për të kontrolluar rrjetin e pagesës. 2. Verifikoni nëse gjendja e llogarisë së pagesës mjafton për të mbështetur pagesën.</item>
+        <item>Prek lidhjen e mëposhtme për të lexuar %1$s dhe %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Cili është funksioni i turbos së lojës?</item>
+        <item>Çfarë lojërash mbështet turboja e lojës?</item>
+        <item>Cila llogari lidhet me turbon e lojës?</item>
+        <item>Si të zgjidh problemet e pagesës?</item>
+        <item>Ku mund ta lexosh Rregulloren për privatësinë dhe Marrëveshjen e përdoruesit?</item>
+    </string-array>
+</resources>

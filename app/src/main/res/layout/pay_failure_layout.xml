@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="577.0dip" android:layout_height="287.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <ImageView android:id="@id/img_close" android:layout_width="38.0dip" android:layout_height="38.0dip" android:layout_marginTop="11.0dip" android:src="@drawable/ic_close_ac" android:layout_marginEnd="10.0dip" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <TextView android:textSize="24.0sp" android:textColor="@color/game_btn_text_color" android:id="@id/tv_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="74.0dip" android:text="@string/payment_failure" android:drawableLeft="@drawable/ic_pay_failure" android:fontFamily="sans-serif-medium" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <Button android:id="@id/bt_pay_again" android:background="@drawable/bg_btn_accelerate" android:layout_marginTop="46.0dip" android:text="@string/pay_again" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/tv_title" style="@style/AccelerateButton" />
+        <Button android:id="@id/bt_return_home" android:layout_marginTop="16.0dip" android:text="@string/return_home" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/bt_pay_again" style="@style/AccelerateButton.Negative" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo man gi Nafas Mar Tugo kata XArena en gino mowal ne TECNO/Infinix mondo omed teko e yor tudruok e mbui gi tugo. Onyalo loso chandruok mar malo mar yor Tud e mbui, ngado Tud, gi etc kendo oket yor tudruok e mbui obed mayom kod tugo motegno. Otiyo go Wi-Fi kod wache mar yor tudruok e mbui mamoko (5G/4G/3G).</item>
+        <item>"Turbo mar tugo tiyo gi tuke mang'eny. Ka tuke moko ok nyal jiw, inyalo tudori e yor mbui gi josier kakiduare."</item>
+        <item>TECNO/Infinix ID e akaunt mar jatugo matiyo gi Xunyou Game Turbo e Nafas Mar Tugo kata XArena. Akaunt ka akaunt nyalo yudo ber manono kendo jiwo tich bang donjo.</item>
+        <item>1. Chak manyien mondo irang yor tudruok e mbui chudo. 2. Rang ka pesa manie akaunt michude oromo siro judo.</item>
+        <item>Yie to di yo midonjo go mondo isom %1$s kod %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Tij turbo mar tugo en ango?</item>
+        <item>Tuke mage ma turbo mar tugo tiyo go?</item>
+        <item>Akaunt mane ma otudi gi turbo mar tugo?</item>
+        <item>Kaka inyalo loso chandruok e chudo?</item>
+        <item>"Kama inyalo some chike maling'ling'kachiel gi Singruok Mar Tiyo?"</item>
+    </string-array>
+</resources>

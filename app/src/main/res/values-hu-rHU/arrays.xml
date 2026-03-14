@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>A Xunyou Játékturbó beépített Játéktér/XArena egy kifejezetten a TECNO/Infinix számára tervezett termék, amely javítja a játékhálózat stabilitását. Megoldja a nagy késleltetéssel, a kapcsolat megszakadásával stb. kapcsolatos problémákat, és zökkenőmentesebbé teszi a hálózatot, a játékot pedig stabilabbá. Támogatja a Wi-Fi-t és más adathálózatokat (5G/4G/3G).</item>
+        <item>A játékturbó már a legtöbb játékot támogatja. Ha egyes játékokat nem lehet gyorsítani, forduljon az online ügyfélszolgálathoz támogatásért.</item>
+        <item>A játékos a Játéktér/XArena Xunyou Játékturbó szolgáltatásaihoz a TECNO/Infinix ID-t használja fiókként. Minden fiók a bejelentkezés után releváns ingyenes előnyökhöz és szolgáltatásokhoz juthat.</item>
+        <item>1. Frissítsen a fizetési hálózat ellenőrzéséhez. 2. Ellenőrizze, hogy a fizetési számla egyenlege elegendő-e a kifizetés fedezésére.</item>
+        <item>Koppintson az alábbi linkre az %1$s és %2$s elolvasásához.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Mi a játékturbó funkciója?</item>
+        <item>Milyen játékokat támogat a játékturbó?</item>
+        <item>Milyen fiók van társítva a játékturbóval?</item>
+        <item>Hogyan oldhatók meg a fizetési problémák?</item>
+        <item>Hol lehet elolvasni az Adatvédelmi szabályzatot és a Felhasználói Szerződést?</item>
+    </string-array>
+</resources>

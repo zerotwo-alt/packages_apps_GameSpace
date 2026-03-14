@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="35.0dip" android:width="137.0dip" android:viewportWidth="137.0" android:viewportHeight="35.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group>
+        <clip-path android:pathData="M129.95,0C133.76,0 136.6,3.5 135.82,7.23L130.89,30.76C130.37,33.23 128.19,35 125.67,35H7.39C3.58,35 0.73,31.5 1.51,27.77L6.45,4.24C6.96,1.77 9.14,0 11.66,0H129.95Z" android:fillType="evenOdd" />
+        <path android:fillColor="#fff3f3f5" android:pathData="M129.95,0C133.76,0 136.6,3.5 135.82,7.23L130.89,30.76C130.37,33.23 128.19,35 125.67,35H7.39C3.58,35 0.73,31.5 1.51,27.77L6.45,4.24C6.96,1.77 9.14,0 11.66,0H129.95Z" android:fillType="evenOdd" />
+        <path android:fillColor="@drawable/$bg_get_vip_button__0" android:pathData="M129.95,0C133.76,0 136.6,3.5 135.82,7.23L130.89,30.76C130.37,33.23 128.19,35 125.67,35H7.39C3.58,35 0.73,31.5 1.51,27.77L6.45,4.24C6.96,1.77 9.14,0 11.66,0H129.95Z" android:fillType="evenOdd" />
+        <path android:fillColor="#00000000" android:pathData="M129.95,0.83C133.23,0.83 135.68,3.85 135,7.06L130.07,30.59C129.64,32.67 127.8,34.17 125.67,34.17H7.39C4.11,34.17 1.66,31.15 2.33,27.94L7.26,4.41C7.7,2.33 9.54,0.83 11.66,0.83H129.95Z" android:strokeColor="@drawable/$bg_get_vip_button__1" android:strokeWidth="1.66667" />
+        <group>
+            <clip-path android:pathData="M-15.42,-57.33h213.33v60h-213.33z" />
+            <group>
+                <clip-path android:pathData="M-15.42,-57.33h213.33v120h-213.33z" />
+                <path android:fillColor="@drawable/$bg_get_vip_button__2" android:pathData="M-15.42,-57.33h213.33v120h-213.33z" />
+            </group>
+        </group>
+    </group>
+</vector>

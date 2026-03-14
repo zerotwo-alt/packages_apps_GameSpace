@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/iv" android:layout_width="19.0dip" android:layout_height="19.0dip" android:layout_marginStart="12.0dip" />
+    <com.transsion.common.widget.TrimmedTextView android:textSize="11.0dip" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/tv" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxWidth="86.0dip" android:maxLines="2" android:layout_marginStart="9.0dip" />
+    <View android:id="@id/hot_dot" android:background="@drawable/red_dot" android:visibility="gone" android:layout_width="6.0dip" android:layout_height="6.0dip" android:layout_marginStart="4.0dip" />
+</merge>

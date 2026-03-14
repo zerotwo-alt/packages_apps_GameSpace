@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="vertical" android:id="@id/ll_root" android:layout_width="100.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="6.0dip" android:textColor="#ccffffff" android:ellipsize="end" android:id="@id/txv_prop" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:singleLine="true" android:paddingStart="3.0dip" />
+    <SeekBar android:id="@id/seekbar" android:layout_marginTop="1.6999817dip" android:max="10" android:paddingStart="1.0dip" android:paddingEnd="1.0dip" android:min="0" style="@style/magic_voice_seekbar" />
+</androidx.appcompat.widget.LinearLayoutCompat>

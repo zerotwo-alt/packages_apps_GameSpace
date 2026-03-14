@@ -1,0 +1,69 @@
+.class public Lhb/a;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# instance fields
+.field public final a:I
+
+.field public final b:I
+
+.field public final c:I
+
+.field public final d:I
+
+.field public final e:I
+
+.field public final f:Lhb/b;
+
+.field public final g:Lhb/h;
+
+
+# direct methods
+.method public static constructor <clinit>()V
+    .locals 0
+
+    return-void
+.end method
+
+.method public constructor <init>(Lhb/b;)V
+    .locals 2
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lhb/a;->f:Lhb/b;
+
+    invoke-virtual {p1}, Lhb/b;->d()I
+
+    move-result v0
+
+    iput v0, p0, Lhb/a;->e:I
+
+    invoke-virtual {p1}, Lhb/b;->e()I
+
+    move-result v0
+
+    iput v0, p0, Lhb/a;->d:I
+
+    shl-int/lit8 v1, v0, 0x1
+
+    iput v1, p0, Lhb/a;->a:I
+
+    shr-int/lit8 v0, v0, 0x2
+
+    iput v0, p0, Lhb/a;->b:I
+
+    mul-int/lit8 v0, v0, 0x2
+
+    add-int/lit8 v0, v0, -0x1
+
+    iput v0, p0, Lhb/a;->c:I
+
+    invoke-virtual {p1}, Lhb/b;->g()Lhb/h;
+
+    move-result-object p1
+
+    iput-object p1, p0, Lhb/a;->g:Lhb/h;
+
+    return-void
+.end method

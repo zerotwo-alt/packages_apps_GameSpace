@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Géèmù Turbo ti a ṣe ni Àyè Géèmù/XArena jẹ́ ohun-èèlò kan ti a dá ṣe fun TECNO/Infinix lati mu iduroṣinṣin nẹtiwọọki géèmù dara si. Ó lè yanjú àwọn ìṣòro fífalẹ̀ giga, jíjá, ati bẹbẹ lọ yóò ṣì mú kí nẹtiwọọki dan ati géèmù naa idurosinsin síi. Ó ṣe àtìlẹyìn fún Wi-Fi àti dátà nẹtíwọ́ọ̀kì míràn (5G/4G/3G).</item>
+        <item>Géèmù turbo náà ti ṣàtìlẹyìn ọ̀pọ̀ àwọn géèmù. Ti àwọn géèmù kò ba ṣeé gbéláruge, o le kan si iṣẹ alabara ori ayelujara fun atilẹyin.</item>
+        <item>TECNO/Infinix ID ni àkántì ti awọn ẹrọ orin tó ń lo awọn iṣẹ́ Xunyou Géèmù Turbo iṣẹ ninu Àyè Géèmù/XArena. Ọ̀kọ̀ọ̀kan àwọn àṣùwọ̀n lè rí àwọn ànfààní ọ̀fẹ́ ti ´o bójúmu kí o si ṣàgbélárugẹ àwọn iṣẹ́ lẹ̀yìn àtẹ̀wọlé.</item>
+        <item>1. Sọọ́ dọ̀tun láti ṣayẹ̀wò nẹ́tíwọ́ọ̀kì owó sísan. 2. Ṣàyẹ̀wò bóyá oye tí ó wà ní àsùnwọ̀n owó náà tó láti ṣe àtìlẹ́yìn fún owó sísan náà.</item>
+        <item>Jọ̀wọ́ tẹ àsopọ̀ tí ó wà ní ìsàlẹ̀ láti ka %1$s àti %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Kínni ojúṣe géèmù turbo náà?</item>
+        <item>Irú géèmù wo ni géèmù turbo ṣàtìlẹyìn fún?</item>
+        <item>Kínni àkántí tí ó sopọ̀ mọ́ géèmù turbo?</item>
+        <item>Bí o ṣe lè yanjú àwọn ìṣòro owó sísan?</item>
+        <item>Ibi tí o ti lè ka Ìlànà Pípa Àṣírí Mọ́ àti àdéhùn oníṣẹ?</item>
+    </string-array>
+</resources>

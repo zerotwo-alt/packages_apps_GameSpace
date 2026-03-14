@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Ang Xunyou Game Turbo na binuo sa Game Space/XArena ay isang produktong partikular na idinisenyo para sa TECNO/Infinix upang mapabuti ang katatagan ng network ng laro. Maaari nitong lutasin ang mga problema ng mataas na latency, pagkakadiskonekta, atbp. at gawing mas maayos ang network at aang laro nang mas matatag. Sinusuportahan nito ang Wi-Fi at iba pang data network (5G/4G/3G).</item>
+        <item>Sinusuportahan ng turbo ng laro ang karamihan sa mga laro. Kung hindi kayang palakasin ang ilang laro, maaari kang makipag-ugnayan sa online customer service para sa suporta.</item>
+        <item>Ang TECNO/Infinix ID ay ang account ng manlalaro na gumagamit ng mga serbisyo ng Xunyou Game Turbo sa Game Space/XArena. Ang bawat account ay maaaring makakuha ng mga libreng benepisyong makabuluhan at mapalakas ang mga serbisyo pagkatapos mag-login.</item>
+        <item>1. I-refresh para tingnan ang network ng pagbabayad. 2. Suriin kung ang balanse ng account sa pagbabayad ay sapat upang suportahan ang pagbabayad.</item>
+        <item>Pakipindot ang link sa ibaba para basahin ang %1$s at %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Ano ang silbi ng turbo ng laro?</item>
+        <item>Anong mga laro ang sinusuportahan ng turbo ng laro?</item>
+        <item>Anong account ang nakatali sa turbo ng laro?</item>
+        <item>Paano malutas ang mga problema sa pagbabayad?</item>
+        <item>Saan mababasa ang Patakaran sa Pagkapribado at Kasunduan sa User?</item>
+    </string-array>
+</resources>

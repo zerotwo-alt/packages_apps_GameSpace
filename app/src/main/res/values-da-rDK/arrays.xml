@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou spilleturbo indbygget i Game Space/XArena er et produkt, som er specielt designet til TECNO/Infinix for at forbedre netværksstabiliteten for spillet. Det kan løse problemer med lang ventetid, afbrydelse osv. og få netværket til at fungere mere jævnt og gøre spillet mere stabilt. Det understøtter Wi-Fi og andre datanetværk (5G/4G/3G).</item>
+        <item>Spilleturbo understøtter allerede de fleste spil. Hvis nogle spil ikke kan forstærkes, kan du kontakte online-kundeservice for at få hjælp.</item>
+        <item>TECNO/Infinix ID er kontoen for den spiller, som anvender Xunyou spilleturbo-tjenester i Game Space/XArena. Hver konto kan få relevante gratis fordele og forstærke tjenester efter login.</item>
+        <item>1. Opdater for at kontrollere betalingsnetværket. 2 Kontrollér, om saldoen på betalingskontoen er tilstrækkelig til at udføre betalingen.</item>
+        <item>Tryk på nedenstående link for at læse %1$s og %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Hvilken funktion har spilleturbo?</item>
+        <item>Hvilke spil understøtter spilleturbo?</item>
+        <item>Hvilken konto er knyttet til spilleturbo?</item>
+        <item>Hvordan løser man betalingsproblemer?</item>
+        <item>Hvor kan man læse Datasikkerhedspolitikken og Brugeraftalen?</item>
+    </string-array>
+</resources>

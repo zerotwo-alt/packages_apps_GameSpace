@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xũnyoũ ĩthaũ Tũrbo yakĩtwe nthĩnĩ mwanya wa ĩthaũ/XArena nĩ kĩndũ kĩsaũvye sana kwa TECNO/Infinix kũtetheesya mũtandao wa ĩthaũ wĩwe wĩ mũngamũ nesa. No ũtatũe mathĩna ma ĩũlũ ma kũthela mĩtũkĩ, kũmanywa, etc. mbĩngĩ na ũĩtũma mtandao kwĩwa wĩ laĩsĩ na ĩthaũ kwa`wa yĩũngeme vyũ. Ikwataa kwoko Wi-Fi na netiwaka ĩngĩ sya data(5G/4G/3G).</item>
+        <item>Ithaũ tũrbo nĩkwataa kwoko mathaũ maĩngĩ. Ithywa mathaũ amwe mayĩsa kwambatwa, no ũkonĩe mũndũ wa kũtetheesya aũkwake kwoko.</item>
+        <item>TECNO/Infinix ID nĩ akaondĩ ya mũthaũkĩ ũla ũkũtũmĩa Xunyoũu ĩthaũ Turbo mawĩa kwa ĩthaũ mwanya/XArena. Kĩla akaondĩ noyĩkwate syĩndũ sya vat sta mana na kũkĩlwa mawĩa ĩtina wa kũlĩka.</item>
+        <item>1. Anzwa ĩngĩ nĩ kana wone netĩwaka kana mtandao wa ndĩvĩ. 2. Sĩsya mbalanzĩ ya akaondĩ ya ndĩvĩ kana yĩ na mbesa kũkwata kwoko ndĩvĩ.</item>
+        <item>Kwa ndaia tĩna gwatĩanĩo vũ nthĩ na ũĩsoma %1$s na %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Wĩa wa ĩthaũ Tũrbo nĩ wĩva?</item>
+        <item>Nĩ mathaũ meva ĩthaũ tũrbo ĩkwatwaa kwoko?</item>
+        <item>Nĩ akaondĩ yĩva nwatanye na ĩthaũ tũrbo?</item>
+        <item>Kũtatũa mathĩana ma ndĩvĩ?</item>
+        <item>Vala ndonya kũsoma Myamũlo ya Kĩmbithĩ na Wĩtĩkĩlano wa Mũtũmĩi?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="6.0dip" android:width="194.33331dip" android:viewportWidth="583.0" android:viewportHeight="18.0" xmlns:aapt="http://schemas.android.com/aapt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@drawable/$gm_ic_seekbar_progress_balanced__0" android:pathData="M9.32,0.97L576.76,0.91C579.79,0.91 582.25,3.36 582.25,6.39C582.25,6.89 582.18,7.39 582.04,7.87L580.72,12.57C580.16,14.56 579.8,15.24 579.27,15.91C578.73,16.58 578.08,17.08 577.29,17.41C576.5,17.74 575.75,17.91 573.68,17.91L6.24,17.97C3.21,17.97 0.75,15.52 0.75,12.49C0.75,11.99 0.82,11.49 0.96,11.01L2.28,6.31C2.84,4.32 3.2,3.64 3.73,2.97C4.27,2.3 4.92,1.8 5.71,1.47C6.5,1.14 7.25,0.97 9.32,0.97Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+</vector>

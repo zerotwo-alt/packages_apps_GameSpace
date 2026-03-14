@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/bg_character_pop_window" android:paddingTop="5.0dip" android:layout_width="@dimen/character_pop_window_width" android:layout_height="wrap_content" android:maxWidth="@dimen/character_pop_window_maxWidth" android:paddingStart="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="10.0dip" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/character_item_one" android:paddingBottom="3.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxWidth="@dimen/character_pop_window_maxWidth" android:maxLines="2" android:layout_weight="1.0" android:paddingStart="7.0dip" />
+    <TextView android:textSize="10.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@id/character_item_two" android:paddingBottom="3.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxWidth="@dimen/character_pop_window_maxWidth" android:maxLines="2" android:layout_weight="1.0" android:paddingStart="7.0dip" />
+</LinearLayout>

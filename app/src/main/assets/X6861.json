@@ -1,0 +1,19 @@
+{
+  "name":"X6851",
+  "baseTags":{
+    "tagMarker":[0,7,2],
+    "baseTag":[1,1,1,0,0,0,0,0,0]
+  },
+  "advancedTags":[
+    {
+      "game":["com.mobile.legends"],
+      "tagMarker":[1,0,5,7],
+      "advancedTag":[1,1,1,1,0,0,0,0,0]
+    },
+    {
+      "game":["com.dts.freefireth","com.dts.freefiremax"],
+      "tagMarker":[1,0,5,7],
+      "advancedTag":[2,1,1,1,0,0,0,0,0]
+    }
+  ]
+}

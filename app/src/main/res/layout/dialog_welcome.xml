@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center" android:background="@drawable/bg_acc_pop" android:layout_width="577.0dip" android:layout_height="287.0dip">
+        <ImageView android:id="@id/iv_img" android:layout_width="343.0dip" android:layout_height="141.0dip" android:src="@drawable/img_vip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/game_btn_text_color" android:id="@id/txv_welcome" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_text" android:includeFontPadding="false" android:fontFamily="sans-serif-medium" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/iv_img" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/game_btn_text_color" android:id="@id/txv_vip_rights" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/vip_rights_text" android:includeFontPadding="false" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/txv_welcome" />
+        <Button android:id="@id/btn_to_accelerate" android:layout_marginBottom="30.0dip" android:text="@string/to_accelerate" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" style="@style/AccelerateButton" />
+        <ImageView android:id="@id/btn_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="11.0dip" android:src="@drawable/ic_close_ac" android:layout_marginEnd="12.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

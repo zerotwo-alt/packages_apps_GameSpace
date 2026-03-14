@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/os_gdpr_dialog_background_old" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="@dimen/os_gdpr_layout_elevation"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="12.0dip" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip">
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="@color/os_gdpr_dialog_title_text_color" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/mtvTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:layoutDirection="locale" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:scrollbarSize="3.0dip" android:scrollbarThumbVertical="@drawable/os_gdpr_scrollbar" android:scrollbarStyle="insideInset" android:textSize="@dimen/os_gdpr_message_text_size" android:textColor="@color/os_gdpr_text_secondary_color" android:id="@id/mWebview" android:paddingLeft="16.0dip" android:paddingRight="12.0dip" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="10.0dip" android:text="@string/os_gdpr_privacy_content" android:layout_weight="1.0" android:paddingStart="16.0dip" android:paddingEnd="12.0dip" android:lineHeight="@dimen/os_gdpr_message_text_line_height" />
+        <TextView android:textSize="@dimen/os_gdpr_message_text_size" android:textColor="@color/os_gdpr_text_secondary_color" android:id="@id/tv_announcement" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" android:lineHeight="@dimen/os_gdpr_message_text_line_height" />
+        <LinearLayout android:layout_gravity="bottom" android:background="#26a1a1a1" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    </LinearLayout>
+    <LinearLayout android:gravity="end" android:orientation="horizontal" android:paddingTop="16.0dip" android:paddingRight="16.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingEnd="16.0dip">
+        <Button android:textSize="14.0sp" android:textColor="@color/os_gdpr_dialog_message_text_color" android:id="@id/mbtnCancel" android:background="@drawable/os_gdpr_cancel_btn_old" android:layout_width="104.0dip" android:layout_height="36.0dip" android:text="@string/os_gdpr_cancel_btn" style="?android:borderlessButtonStyle" />
+        <Button android:textSize="14.0sp" android:textColor="@color/os_gdpr_white" android:id="@id/mbtnOk" android:background="@drawable/os_gdpr_accept_btn_old" android:layout_width="104.0dip" android:layout_height="36.0dip" android:text="@string/os_gdpr_accept_btn" style="?android:borderlessButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

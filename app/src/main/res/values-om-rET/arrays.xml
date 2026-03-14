@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Taphni Turbo Xunyou kan Bakka Tapha/XArena irra jiru oomisha TECNO/Infinix dhan hojjatamee fi tasagabbii cimdaa taphaa fooyyeessuuf kan gargaarudha. Rakkoo duubatti hafuu, addaan cituu, fi kkf furuun cimdaan sirnaan akka hojjatuu akkasumas akka tasgabawuuf fayyada. Wi-Fi fi cimdaa daataa biroo (5G/4G/3G) dhaf gargaara.</item>
+        <item>Turbo tapha duraayyuu taphoota irra caalaan ni deeggara. Yoo taphoota tokko tokko hin guddanne, deeggarsa argachuuf tajaajila maamiltootaa toora interneetiin qunnamuu dandeessu.</item>
+        <item>"Bakka Taphaa/XArena irratti ID TECNO/Infinix eenyummeessaa taphataa tajaajila Tapha Turbo Xunyou fayyadamuuti. Tokkoon tokkoon eenyummeessaa erga seeneen booda faayidaa bilisaa barbaachisaa ta'e argachuu fi tajaajila guddisuu danda'a."</item>
+        <item>1. Cimdaa kaffaltii mirkaneessuuf haaromsi. 2. Kaffaltii raawwachuuf hafteen herrega kaffaltii kaffaltii gahaa ta’uu fi dhiisuu isaa mirkaneessi.</item>
+        <item>Maaloo %1$s fi %2$s dubbisuuf geessituu armaan gadii tuqi.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Dalagaan tapha turbo maalidha?</item>
+        <item>Taphootni turbo taphoota akkamii deeggara?</item>
+        <item>Eenyummeessaa akkamiitu tapha turbo irratti hidhamee jira?</item>
+        <item>Rakkoo kaffaltii akkamiin furuu dandeenya?</item>
+        <item>Imaammata Dhuunfaa fi Waliigaltee Fayyadamiinsa eessaa dubbisuu dandeenya?</item>
+    </string-array>
+</resources>

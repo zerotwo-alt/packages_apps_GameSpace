@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo, vgrajen v aplikacijo Igralni prostor/XArena, je izdelek, ki je z namenom izboljševanja stabilnosti omrežja iger posebej zasnovan za podjetje TECNO/Infinix. Z njim lahko odpravite težave z veliko zakasnitvijo, prekinitvijo povezave ipd. ter tako poskrbite, da omrežje deluje bolj tekoče, igra pa je stabilnejša. Podpira tudi omrežje Wi-Fi in druga podatkovna omrežja (5G/4G/3G).</item>
+        <item>Pospeševalnik iger že podpira večino iger. Če katerih iger ni mogoče pospešiti, se lahko za pomoč obrnete na spletno službo za pomoč uporabnikom.</item>
+        <item>Račun igralca, ki uporablja storitve Xunyou Game Turbo v aplikaciji Igralni prostor/XArena, je ID TECNO/Infinix. Vsak račun lahko po prijavi pridobi ustrezne brezplačne ugodnosti in storitve pospeševanja.</item>
+        <item>1. Osvežite, da preverite plačilno omrežje. 2. Preverite, ali stanje na plačilnem računu zadostuje za plačilo.</item>
+        <item>Tapnite spodnjo povezavo, če želite prebrati dokumenta %1$s in %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Čemu je namenjen pospeševalnik iger?</item>
+        <item>Katere igre podpira pospeševalnik iger?</item>
+        <item>Kateri račun je vezan na pospeševalnik iger?</item>
+        <item>Kako odpraviti težave s plačilom?</item>
+        <item>Kje prebrati pravilnik o zasebnosti in pogodbo o uporabi.</item>
+    </string-array>
+</resources>

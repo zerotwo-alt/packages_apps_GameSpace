@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou spēļu uzlabotājs, kas iebūvēts Spēļu telpā/XArena, ir īpaši TECNO/Infinix vajadzībām izstrādāts produkts, kas paredzēts spēļu tīkla stabilitātes uzlabošanai. Tas var atrisināt problēmas, kas saistītas ar augstu latentumu, atvienošanos u.c., kā arī nodrošināt vienmērīgāku tīkla darbību un stabilāku spēles gaitu. Tas atbalsta Wi-Fi un citus datu tīklus (5G/4G/3G).</item>
+        <item>Spēļu uzlabotājs jau atbalsta vairākumu spēļu. Ja dažas spēles nevar uzlabot, varat sazināties ar tiešsaistes klientu apkalpošanas dienestu, lai saņemtu atbalstu.</item>
+        <item>TECNO/Infinix ID ir tā spēlētāja konts, kurš izmanto Xunyou spēļu uzlabotāja pakalpojumus Spēļu telpā/XArena. Katrs konts pēc pieteikšanās var saņemt atbilstošas bezmaksas priekšrocības un uzlabošanas pakalpojumus.</item>
+        <item>1. Atsvaidziniet, lai pārbaudītu maksājumu tīklu. 2. Pārbaudiet, vai maksājumu konta atlikums ir pietiekams maksājuma veikšanai.</item>
+        <item>Lūdzu, pieskarieties saitei tālāk, lai izlasītu dokumentu %1$s un %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Kāda ir spēļu uzlabotāja funkcija?</item>
+        <item>Kādas spēles atbalsta spēļu uzlabotājs?</item>
+        <item>Kurš konts ir piesaistīts spēļu uzlabotājam?</item>
+        <item>Kā atrisināt maksājuma problēmas?</item>
+        <item>Kur izlasīt privātuma politiku un lietotāja līgumu?</item>
+    </string-array>
+</resources>

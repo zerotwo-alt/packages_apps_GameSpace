@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/layout_main" android:background="@drawable/bg_acc_pop" android:layout_width="577.0dip" android:layout_height="287.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <ImageView android:id="@id/btn_service" android:background="@drawable/bg_btn_service" android:visibility="gone" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginBottom="4.0dip" android:src="@drawable/ic_service" android:scaleType="centerInside" android:alpha="0.0" android:translationX="-13.0dip" app:layout_constraintBottom_toBottomOf="@id/layout_main" app:layout_constraintStart_toEndOf="@id/layout_main" />
+</androidx.constraintlayout.widget.ConstraintLayout>

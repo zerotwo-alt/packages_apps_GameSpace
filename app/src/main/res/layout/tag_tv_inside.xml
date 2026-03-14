@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.transsion.gamespace.View.GameTagLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/tag_out" android:background="@drawable/tag_bg_inside" android:layout_width="99.0dip" android:layout_height="18.0dip" android:layout_marginTop="1.0dip" android:layout_marginBottom="5.0dip" android:layout_marginStart="0.0dip" android:layout_marginEnd="1.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <com.transsion.common.widget.SimpleMarquee android:textSize="9.0dip" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center" android:id="@id/tv_content" android:layout_width="87.0dip" android:layout_height="fill_parent" android:layout_marginBottom="1.0dip" android:marqueeRepeatLimit="1" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <ImageView android:id="@id/tag_out_extend" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginTop="0.0dip" android:layout_marginBottom="0.0dip" android:layout_marginStart="0.0dip" android:layout_marginEnd="0.0dip" app:layout_constraintBottom_toBottomOf="@id/tag_out" app:layout_constraintStart_toEndOf="@id/tag_out" app:layout_constraintTop_toTopOf="@id/tag_out" />
+</com.transsion.gamespace.View.GameTagLayout>

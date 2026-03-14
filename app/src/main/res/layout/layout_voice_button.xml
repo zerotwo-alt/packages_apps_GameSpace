@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="35.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.LinearLayoutCompat android:gravity="center" android:orientation="horizontal" android:id="@id/ll_btn" android:background="@drawable/mv_bg_btn" android:layout_width="174.0dip" android:layout_height="35.0dip">
+        <ImageView android:id="@id/iv_start" android:layout_width="23.0dip" android:layout_height="23.0dip" android:src="@drawable/mv_ic_recording" />
+        <TextView android:textAppearance="@style/os_medium_fontweight" android:textSize="12.0dip" android:textColor="@color/mv_text_color" android:ellipsize="end" android:id="@id/txv_btn" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="100.0dip" android:text="@string/start_recording" android:maxLines="1" android:layout_marginStart="8.0dip" />
+        <com.airbnb.lottie.LottieAnimationView android:id="@id/ani_play" android:visibility="gone" android:layout_width="47.0dip" android:layout_height="24.0dip" android:layout_marginStart="8.0dip" app:lottie_fileName="@string/path_wave_ani" />
+        <TextView android:textAppearance="@style/os_medium_fontweight" android:textSize="9.0dip" android:textColor="@color/mv_text_color" android:ellipsize="end" android:id="@id/txv_end" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="100.0dip" android:text="00:05" android:maxLines="1" android:layout_marginStart="4.0dip" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <ImageView android:id="@id/iv_reset" android:visibility="gone" android:layout_width="52.0dip" android:layout_height="35.0dip" android:src="@drawable/mv_ic_reset" />
+</androidx.appcompat.widget.LinearLayoutCompat>

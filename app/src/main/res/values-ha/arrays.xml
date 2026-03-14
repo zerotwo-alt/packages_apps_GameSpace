@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Wasan Turbo da aka gina cikin Sararin Wasa/XArena wani kaya ne na musamman wanda aka tsara don TECNO/Infinix don inganta rashin matsalar cibiyar sadarwar wasa. Zai iya warware matsaloli na babban jinkiri, cirewar haɗi, da sauransu da mayar da cibiyar sadarwa ta kasance mai aiki sosai kuma wasan ya kasance sosai ba matsala. Yakan tallafi Wi-Fi da sauran cibiyoyin sadarwar bayanai (5G/4G/3G).</item>
+        <item>Wasan turbo ya kasance yakan tallafi mafi yawan wasanni. Idan ba za a iya haɓaka wasu wasannin ba, za ka iya tuntuɓan sabis na abokin ciniki ta kan layi don tallafi.</item>
+        <item>"TECNO/Infinix ID shi ne asusu na ɗan wasa da ke amfani da sabis-sabis na Xunyou Wasan Turbo a cikin Sararin Wasa/XArena. Kowane asusu zai iya samun fa'idoji kyauta da suka dace da haɓaka sabis-sabis bayan shiga."</item>
+        <item>1. Wartsake don duba cibiyar sadarwar biya. 2. Duba ko balas na assun biyan ya kasance isasshe don tallafin biyan.</item>
+        <item>Taɓa mahaɗin da ke ƙasa don karanta %1$s da %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Mene ne aiki na wasan turbo?</item>
+        <item>Waɗanne wasanni ne wasan turbo ke tallafi?</item>
+        <item>Wane asusu ne ke ɗaure ga wasan turbo?</item>
+        <item>Ta yaya za a warware matsalolin biya?</item>
+        <item>A ina za a karanta Ƙudurin Keɓe da Yarjejeniyar Mai Amfani?</item>
+    </string-array>
+</resources>

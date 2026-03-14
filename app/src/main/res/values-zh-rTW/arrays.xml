@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>遊戲空間/XArena 內建的迅遊遊戲加速器是一款專為 TECNO/Infinix 所設計，用來提升網路遊戲穩定性的產品。 可解決高延遲、連線中斷等問題，讓網路更流暢、遊戲更穩定。 可支援 Wi-Fi 和其他行動網路 (5G/4G/3G)。</item>
+        <item>遊戲加速器能支援大多數遊戲。 如果有些遊戲無法加速，您可以聯絡線上客服尋求支援。</item>
+        <item>TECNO/Infinix ID 是玩家在遊戲空間/XArena 使用迅遊遊戲加速器服務的帳號。登入後，每一個帳號都可以取得相關的免費權益和加速服務。</item>
+        <item>1. 重新整理網路以檢查線上付款情況。2. 檢查帳戶餘額是否足以支付款項。</item>
+        <item>請輕觸下方的連結以查閱 %1$s 和 %2$s。</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>遊戲加速器有何功能？</item>
+        <item>遊戲加速器可支援哪些遊戲？</item>
+        <item>遊戲加速器綁定的是什麼帳戶？</item>
+        <item>如何解決付款問題？</item>
+        <item>在哪裡可以查閱隱私權政策和使用者協議？</item>
+    </string-array>
+</resources>

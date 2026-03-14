@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/quick_root_view" android:background="@color/user_center_window_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/fl_root" android:background="@drawable/ic_glare_pop" android:layout_width="655.0dip" android:layout_height="341.0dip" android:layout_centerInParent="true" />
+</RelativeLayout>

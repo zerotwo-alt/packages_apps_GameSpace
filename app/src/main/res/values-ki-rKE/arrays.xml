@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Turbo ya Mũthako ya Xunyou ya gũthondekerwo thĩinĩ wa Bathi ya Mathako/XArena nĩ kĩndũ gĩthondekeirwo kĩa mwanya TECNO/Infinix nĩgetha yagĩrithie wĩigananu wa netiwaki ya mũthako. No ĩhũrane na mathĩna ma kwĩgucia mũno, gũtigithũkana, na maingĩ. na ĩtũme netiwaki ĩ nyoroke na mũthako ũkorwo wĩigananĩte mũno. Ihotithĩtie Wi-Fi na netiwaki ingĩ cia data (5G/4G/3G).</item>
+        <item>Turbo ya Mũthako ĩhotithĩtie mathako maingĩ. Okorwo mĩthako ndĩngĩkĩrwo hinya, no waranĩrie na ũtungata wa mũgũri intanetinĩ ha ũteithio.</item>
+        <item>TECNO/Infinix ID ni akaunti ya mũthaki arahũthĩra ũtungata wa Turbo ya Mũthako ya Xunyou thĩinĩ wa Bathi ya Mũthako/XArena. O akaunti no ĩgĩe na wagĩrĩru wa burĩ na gwĩkĩra hinya ũtungata thutha wa kũingĩra.</item>
+        <item>1. Ambĩrĩria rĩngĩ nĩgetha ũrore marĩhi ma netiwaki. 2. Rora kana matigari ma marĩhi ma akaunti kana nĩ maiganu kũhotithia kũrĩha.</item>
+        <item>Ndakwĩhoya ũhutie kĩnyitithania kĩ haha thĩ nĩgetha ũthome %1$s na %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Wĩra wa turbo ya mũthako nĩ ũrĩkũ?</item>
+        <item>Turbo ya Mũthako ĩhotothĩtie kĩ?</item>
+        <item>Nĩ akaunti ĩrĩkũ yohanithĩtio kũrĩ turbo ya mũthako?</item>
+        <item>Ũrĩa ũngĩteanĩria mathĩna ma marĩhi?</item>
+        <item>Nĩha ha gĩthoma Mawatho megiĩ Ũgitĩri na Kĩrĩkanĩro kia Ũhũthĩri?</item>
+    </string-array>
+</resources>

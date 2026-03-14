@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Turbo Game Xunyou yang dibangun di Ruang Game/XArena adalah produk yang secara spesifik dirancang untuk TECNO/Infinix guna meningkatkan stabilitas jaringan game. Ini dapat menyelesaikan masalah latensi tinggi, putus koneksi, dsb., serta menjadikan jaringan lebih mulus dan game lebih stabil. Ini mendukung Wi-Fi dan jaringan data lainnya (5G/4G/3G).</item>
+        <item>Turbo game sudah mendukung sebagian besar game. Jika beberapa game tidak dapat dipercepat, Anda dapat menghubungi layanan pelanggan online untuk mendapatkan dukungan.</item>
+        <item>TECNO/Infinix ID adalah akun pemain yang menggunakan layanan Turbo Game Xunyou di Ruang Game/XArena. Setiap akun bisa mendapatkan manfaat gratis yang relevan dan layanan percepatan setelah login.</item>
+        <item>1. Segarkan untuk memeriksa jaringan pembayaran. 2. Periksa apakah saldo akun pembayaran cukup untuk mendukung pembayaran.</item>
+        <item>Ketuk tautan di bawah untuk membaca %1$s dan %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Apa fungsi turbo game?</item>
+        <item>Game apa yang mendukung turbo game?</item>
+        <item>Akun apa yang diikat ke turbo game?</item>
+        <item>Bagaimana cara memecahkan masalah pembayaran?</item>
+        <item>Di mana Kebijakan Privasi dan Perjanjian Pengguna bisa dibaca?</item>
+    </string-array>
+</resources>

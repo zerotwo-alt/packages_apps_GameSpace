@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Oyun Alanı/XArena içinde oluşturulmuş Xunyou Game Turbo özelliği oyun ağ kararlılığını iyileştirmek amacıyla özellikle TECNO/Infinix için tasarlanmış bir üründür. Yüksek gecikme süresi, bağlantı vs. sorunları çözebilir, ağı daha kesintisiz ve oyunu daha kararlı yapabilir. Wi-Fi ve diğer veri ağlarını (5G/4G/3G) destekler.</item>
+        <item>Oyun turbo özelliği zaten bir çok oyunu destekler. Bazı oyunlar hızlandırılamazsa, destek için çevrim içi müşteri hizmetleriyle iletişime geçebilirsiniz.</item>
+        <item>TECNO/Infinix ID Oyun Alanı/XArena içinde Xunyou Oyun Turbo hizmetlerini kullanan oyuncu hesabıdır. Oturum açtıktan sonra her bir hesap ücretsiz avantajlardan yararlanabilir ve hizmetleri hızlandırabilir.</item>
+        <item>1. Ödeme ağını kontrol etmek için yenileyin. 2. Ödeme yapacak hesabın bakiyesinin ödemeyi gerçekleştirecek yeterlilikte olup olmadığını kontrol edin.</item>
+        <item>%1$s ve %2$s içeriklerini okumak için lütfen aşağıdaki bağlantıya dokunun.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Oyun turbo işlevi nedir?</item>
+        <item>Hangi oyunlar oyun turbo özelliğini destekler?</item>
+        <item>Oyun turboya hangi hesap bağlı?</item>
+        <item>Ödeme sorunları nasıl çözülür?</item>
+        <item>Gizlilik Politikası ve Kullanıcı Sözleşmesi nerede okunur?</item>
+    </string-array>
+</resources>

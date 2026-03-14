@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Mîchetho ya Inya ya Xunyou iandi ndeene ya kaanya ka mucetho/XArena ni bidhaa igiti ya TECNO/Infinix kwongera mutandao jwa micetho. Yomba gutatua mathina ja gukiriria, kugwatithanukua, na bingi bibingi. Nigwatiraga WI-FI na mitandao iingi ya data (5G/4G/3G).</item>
+        <item>mîchetho ya Inya nigwatiraga micetho imingi. Kethirwa micetho itiongerwa, no warie na murungamiri wa motungata ja aguri.</item>
+        <item>TECNO/Infinix ID ni account ya mucethi ugutumira mootungata ja Xunyou mîchetho ya Inya kiri Kaanya ka micetho/XArena. Account oo yonthe no igwate mawega ja utheri jabatere na kwongera mootungata nyuma ya gutonya ndene.</item>
+        <item>1. Eruiya gutega mutandao jwa marii. 2. Tega kethirwa matigari ja mariii ja account ni jang’ani kugwatira urii.</item>
+        <item>Itu tonga kiri linki aja nthiguru kuthoma %1$s na %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Ngugi ya Mîchetho ya Inya niriku?</item>
+        <item>Imbi Mîchetho ya Inya igwataa mbaru?</item>
+        <item>Ni account iriku igwatithenue na Mîchetho ya Inya?</item>
+        <item>Niatia uumba gukandana na thiina ya marii?</item>
+        <item>Inaa umba kuthoma Sheria cia siri na Metikaanirio ya Mûtumîri?</item>
+    </string-array>
+</resources>

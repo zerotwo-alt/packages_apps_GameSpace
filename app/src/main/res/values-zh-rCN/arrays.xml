@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>游戏空间（Game Space/XArena）内置迅游手游加速器是一款专门针对TECNO（INFINIX）的游戏网路加速，提升游戏网络稳定性的产品。专门解决由网络问题引起的高延迟、掉线等问题，让网络更流畅，让游戏更稳定。同时支持WiFi及5G/4G/3G等数据网络。</item>
+        <item>加速器已支持大多数游戏，如果遇到无法加速的游戏可通过联系在线客服获取支持。</item>
+        <item>TECNO（INFINIX） ID作为玩家在游戏空间使用迅游加速器服务的账号，且每个账号在登录后方可体验相关免费权益和加速服务。</item>
+        <item>1.刷新网络，检查支付网络情况；2.检查支付账户余额，是否足以支持支付。</item>
+        <item>你可以点击下方链接查看：%1$s和%2$s</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>加速器的用处是什么？</item>
+        <item>加速器支持哪些游戏？</item>
+        <item>加速器绑定的是什么账号？</item>
+        <item>购买加速器遇到问题如何处理？</item>
+        <item>可以在哪里查看隐私政策和用户协议？</item>
+    </string-array>
+</resources>

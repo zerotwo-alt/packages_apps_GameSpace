@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo integrat în Spațiu de joc/XArena este un produs special conceput pentru TECNO/Infinix pentru a îmbunătăți stabilitatea rețelei de jocuri. Poate să rezolve problemele de latență mare, deconectare etc. și poate face rețeaua mai cursivă și jocul mai stabil. Acceptă Wi-Fi și alte rețele de date (5G/4G/3G).</item>
+        <item>Acceleratorul de joc acceptă deja majoritatea jocurilor. Dacă unele jocuri nu pot fi optimizate, puteți contacta serviciul online pentru clienți pentru asistență.</item>
+        <item>ID-ul TECNO/Infinix este contul jucătorului care utilizează serviciile Xunyou Game Turbo în Spațiu de joc/XArena. Fiecare cont poate obține beneficii gratuite relevante și poate optimiza serviciile după conectare.</item>
+        <item>1. Reîmprospătați pentru a verifica rețeaua de plată. 2. Verificați dacă soldul contului de plăți este suficient pentru plată.</item>
+        <item>Atingeți linkul de mai jos pentru a citi %1$s și %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Care este funcția acceleratorului de joc?</item>
+        <item>Ce jocuri acceptă acceleratorul de joc?</item>
+        <item>Ce cont este asociat cu acceleratorul de joc?</item>
+        <item>Cum se rezolvă problemele cu plata?</item>
+        <item>Unde citesc Politica de confidențialitate și Acordul utilizatorului?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou nsa turbo adi Okpokoro Mmekọ/XArena adi mkpo udua enamde ono TECNO/Infinix ndi fiak ndebede nsa Network fo. Ekeme ndi solve mfana Okuk latency, disconnection, etc ke ndi nam Network fo odono ke nsa edi ukem. Adiana Wi-Fi ke mme Network Fo Akara Data (5G/4G/3G).</item>
+        <item>Nsa turbo adiana uwak mme nsa. Bede ubak nsa ekemeke ndi oost, afo me keme ndi kot online customer service for Ukong.</item>
+        <item>TECNO/Infinix ID edi akaunt owo mbre akamade Xunyou Nsa turbo mme uton ke Okpokoro Mmekọ/XArena. Akaunt ekeme ndiyene ekpakn-akpan mfon mme eno ke mme boost service ke ama login.</item>
+        <item>1. Toho emi dian akpan-akpan ke iko abangade fi ye Network fo. 2. Sie mme balance ukpe okuk akaunt odu awak ndi diana ye ukpe okuk.</item>
+        <item>Mbok tuk link ke usuk man okot %1$s ye %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Nsi idi ufon nsa turbo?</item>
+        <item>Nsuto nsa ke turbo nsa adiana?</item>
+        <item>Afe account e bound nsa turbo?</item>
+        <item>Ekeme ndi solve nfana upe okok?</item>
+        <item>Mmong ke okot Idip idem policy and Ufang Ubono Mpo Isiọn̄ meyeme?</item>
+    </string-array>
+</resources>

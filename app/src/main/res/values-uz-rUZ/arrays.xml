@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>%1$s va %2$s bilan tanishish uchun quyidagi havolani bosing.</item>
+        <item>%1$s va %2$s bilan tanishish uchun quyidagi havolani bosing.</item>
+        <item>%1$s va %2$s bilan tanishish uchun quyidagi havolani bosing.</item>
+    </string-array>
+</resources>

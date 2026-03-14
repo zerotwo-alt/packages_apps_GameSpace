@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:background="@drawable/bg_get_vip_card" android:layout_width="350.0dip" android:layout_height="180.0dip">
+        <TextView android:textSize="20.0sp" android:textColor="@color/white" android:id="@id/tv_congratuation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="CONGRATULATIONS" app:layout_constraintBottom_toTopOf="@id/tv_get_vip" app:layout_constraintEnd_toEndOf="@id/tv_get_vip" app:layout_constraintStart_toStartOf="@id/tv_get_vip" />
+        <TextView android:textSize="12.0sp" android:textColor="@color/white" android:id="@id/tv_get_vip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Get vip 30 days" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <ImageView android:id="@id/iv_get_vip_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_get_vip_tv_right" android:rotation="180.0" android:layout_marginEnd="5.0dip" app:layout_constraintBottom_toBottomOf="@id/tv_get_vip" app:layout_constraintEnd_toStartOf="@id/tv_get_vip" app:layout_constraintTop_toBottomOf="@id/tv_congratuation" />
+        <ImageView android:id="@id/iv_get_vip_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_get_vip_tv_right" android:layout_marginStart="5.0dip" app:layout_constraintBottom_toBottomOf="@id/tv_get_vip" app:layout_constraintStart_toEndOf="@id/tv_get_vip" app:layout_constraintTop_toBottomOf="@id/tv_congratuation" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou spillturbo utviklet i spillområdet/XArena er et produkt spesielt utformet for TECNO/Infinix for å forbedre nettverksstabiliteten for spill. Det kan løse problemer med store forsinkelser, frakobling osv. og gjøre at nettverket blir jevnere og spillet mer stabilt. Det støtter Wi-Fi og andre datanettverk (5G/4G/3G).</item>
+        <item>Spillturboen støtter allerede de fleste spill. Hvis enkelte spill ikke kan forsterkes, kan du kontakte kundeservice for å få støtte.</item>
+        <item>TECNO/Infinix ID er kontoen for spilleren som bruker Xunyou spillturbos tjenester i spillområdet/XArena. Hver konto kan få aktuelle gratisfordeler og forsterkningstjenester etter pålogging.</item>
+        <item>1. Oppdater for å sjekke betalingsnettverket. 2. Sjekk om saldoen på betalingskontoen for å se om du har nok penger til å betale.</item>
+        <item>Trykk på koblingen nedenfor for å lese %1$s og %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Hvordan fungerer spillturboen?</item>
+        <item>Hvilke spill støtter spillturboen?</item>
+        <item>Hvilken konto er bundet til spillturboen?</item>
+        <item>Hvordan kan betalingsproblemene løses?</item>
+        <item>Hvor kan jeg lese personvernerklæringen og brukeravtalen?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:dist="http://schemas.android.com/apk/distribution" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.transsion.gamespace.app" platformBuildVersionCode="34" platformBuildVersionName="14">
+    <dist:module dist:instant="true"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.transsion.gamemode.permission.READ_APP_LIST"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <permission android:name="gamespace.transsion.permission.gameaccelerator" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="com.transsion.smartpanel.CALL_SYSTEM_API"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <meta-data android:name="tran_widgets_listitemlayout_version" android:value="15.1.2.2"/>
+    <meta-data android:name="tran_widgets_version" android:value="15.1.2.2"/>
+    <meta-data android:name="tran_mark_point_version" android:value="1.0.32.30"/>
+    <meta-data android:name="tran_gdpr_version" android:value="1.0.34.24"/>
+    <uses-permission android:name="com.palm.id.READ_ACCOUNT_PROVIDER"/>
+    <uses-permission android:name="com.palm.id.old.READ_ACCOUNT_PROVIDER"/>
+    <uses-permission android:name="hyperion.permission.USE_SECURE_STORAGE"/>
+    <uses-permission android:name="hyperion.permission.USE_SECURE_CRYPTO"/>
+    <queries>
+        <intent>
+            <action android:name="intent.action.PALM_ACCOUNT_AUTH"/>
+        </intent>
+        <package android:name="tech.palm.id"/>
+        <package android:name="com.rlk.mi"/>
+        <intent>
+            <action android:name="android.intent.action.MAIN"/>
+        </intent>
+    </queries>
+    <meta-data android:name="tran_widgets_rec_animation_version" android:value="15.1.2.2"/>
+    <meta-data android:name="tran_widgets_widgets_themes_version" android:value="15.1.2.2"/>
+    <uses-permission android:name="com.transsion.dataservice.permission.READ"/>
+    <uses-permission android:name="com.transsion.dataservice.permission.WRITE"/>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+    <meta-data android:name="tran_athena_version" android:value="3.1.0.3"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <meta-data android:name="tran_gslb_version" android:value="1.0.2.6"/>
+    <meta-data android:name="tran_coreutil_version" android:value="1.0.61.09"/>
+    <meta-data android:name="tran_widgets_core_version" android:value="15.1.2.2"/>
+    <meta-data android:name="tran_json_version" android:value="1.0.5.01"/>
+    <application android:allowBackup="true" android:allowClearUserData="@bool/allow_clear_user_data_false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:extractNativeLibs="false" android:icon="@drawable/game_space" android:label="@string/game_zone" android:name="com.transsion.gamespace.GameSpaceApplication" android:resizeableActivity="false" android:supportsRtl="true" android:theme="@style/AppThemeHios" android:usesCleartextTraffic="true">
+        <meta-data android:name="android.supports_size_changes" android:value="true"/>
+        <meta-data android:name="brand" android:value="infinix"/>
+        <meta-data android:name="supportOxygenBus" android:value="true"/>
+        <meta-data android:name="android.supports_config_changes_assets_paths" android:value="true"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize|uiMode" android:exported="true" android:name="com.transsion.gamespace.DeepLinkActivity" android:taskAffinity="com.transsion.gamemode" android:theme="@style/Translucent">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="com.transsion.gamespace" android:scheme="link"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize|uiMode" android:exported="true" android:label="@string/game_zone" android:largeHeap="true" android:launchMode="singleTop" android:name="com.transsion.gamespace.activity.GameSpaceActivity" android:screenOrientation="sensorLandscape" android:taskAffinity="com.transsion.gamemode" android:theme="@style/GameAppThemeHot">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.transsion.gamemode.SHOW_ACCELRATE"/>
+                <action android:name="com.transsion.gamemode.GAME_SPACE"/>
+                <category android:name="android.intent.category.MONKEY"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.transsion.gamemode.GAME_SPACE"/>
+                <category android:name="android.intent.category.MONKEY"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize|uiMode" android:name="com.transsion.gamespace.activity.GameHideActivity" android:screenOrientation="sensorLandscape" android:taskAffinity="com.transsion.gamemode" android:theme="@style/TranslucentTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize|uiMode" android:name="com.transsion.gamespace.activity.GameProductActivity" android:screenOrientation="sensorLandscape" android:taskAffinity="com.transsion.gamemode" android:theme="@style/MainTheme"/>
+        <provider android:authorities="com.transsion.gamespace.app.androidx-startup" android:exported="false" android:name="androidx.startup.InitializationProvider">
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+        </provider>
+        <activity android:name="com.transsion.gameaccelerator.xunyou.VpnConnectActivity" android:screenOrientation="sensorLandscape" android:theme="@style/Translucent"/>
+        <service android:exported="false" android:label="@string/game_space" android:name="com.subao.gamemaster.GameMasterVpnService" android:permission="android.permission.BIND_VPN_SERVICE">
+            <intent-filter>
+                <action android:name="android.net.VpnService"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.transsion.gameaccelerator.provider.GameDelayInfoProvider" android:exported="true" android:name="com.transsion.gameaccelerator.provider.GameDelayInfoProvider" android:permission="gamespace.transsion.permission.gameaccelerator"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:name="com.transsion.magicvoice.MagicVoiceActivity" android:screenOrientation="sensorLandscape" android:taskAffinity="com.transsion.gamemode" android:theme="@style/MainTheme">
+            <intent-filter>
+                <action android:name="com.transsion.magicvoice.MAIN_ACTIVITY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize|uiMode" android:name="com.transsion.magicvoice.detail.VoiceDetailActivity" android:screenOrientation="sensorLandscape" android:taskAffinity="com.transsion.gamemode" android:theme="@style/TranslucentTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize|uiMode" android:launchMode="singleTop" android:name="com.transsion.magicvoice.getvip.GetVoiceFreeVipActivity" android:screenOrientation="sensorLandscape" android:taskAffinity="com.transsion.gamemode" android:theme="@style/TranslucentTheme"/>
+        <service android:name="com.transsion.magicvoice.modelupdate.ModelUpdateService"/>
+        <activity android:launchMode="singleTask" android:name="com.transsion.pay.WebPayActivity" android:screenOrientation="portrait"/>
+        <meta-data android:name="com.transsion.appkey" android:value="WD/HDXzOs+dMmnYeffydFNFj4Opr+0vTBdMKprkNf8drSUOa2cM8xm/VKpRbdGt4hKYtFBMW0NJLDXTe7pMW+Ln3wB0zQ49UjdzYgpcEWzXclkBUUX2BTyuNhe7wIflynhxY13sZRJBLwjP4eWLnLjyc0dkdTdDmQBunoTR9B9o="/>
+        <service android:label="@string/game_space" android:name="com.transsion.ipctunnel.service.impl.GameSpaceApiService"/>
+        <service android:directBootAware="true" android:exported="false" android:name="androidx.room.MultiInstanceInvalidationService"/>
+        <uses-library android:name="androidx.window.extensions" android:required="false"/>
+        <uses-library android:name="androidx.window.sidecar" android:required="false"/>
+        <service android:exported="true" android:name="com.transsion.palmsdk.auth.PalmAuthService">
+            <intent-filter>
+                <action android:name="intent.action.PALM_ACCOUNT_AUTH"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.transsion.gamespace.app.PalmAccProvider" android:exported="false" android:name="com.transsion.palmsdk.account.PalmAccProvider"/>
+        <meta-data android:name="palm_sdk_version" android:value="2.0.0.44"/>
+        <service android:name="com.transsion.athena.aidl.AthenaTrackService"/>
+        <provider android:authorities="com.transsion.gamespace.app.tray" android:exported="false" android:multiprocess="false" android:name="net.grandcentrix.tray.provider.TrayContentProvider"/>
+        <meta-data android:name="OxygenBusVersion" android:value="1.5.150"/>
+        <service android:exported="true" android:name="com.transsion.apiinvoke.ipc.connect.CommonRouterApiService"/>
+    </application>
+</manifest>

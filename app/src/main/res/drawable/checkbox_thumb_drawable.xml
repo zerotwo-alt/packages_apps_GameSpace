@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="ring" android:useLevel="false" android:innerRadius="0.0dip" android:thickness="9.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="@color/checkbox_thumb_color_start_color" android:endColor="@color/checkbox_thumb_color_end_color" android:angle="270.0" />
+    <size android:height="20.0dip" android:width="20.0dip" />
+</shape>

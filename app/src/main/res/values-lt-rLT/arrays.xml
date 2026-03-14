@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>„Game Space“ / „XArena“ įdėta „Xunyou Game Turbo“ yra specialiai TECNO / „Infinix“ sukurtas produktas, skirtas žaidimų tinklo stabilumui padidinti. Ji gali išspręsti didelės gaišties, atsijungimo ir kitas problemas bei užtikrinti sklandesnį tinklo veikimą ir stabilesnį žaidimą. Palaiko „Wi-Fi“ ir kitus duomenų tinklus (5G / 4G / 3G).</item>
+        <item>Žaidimo turbo režimas jau palaiko daugelį žaidimų. Jei kai kurių žaidimų nepavyksta paspartinti, galite kreiptis pagalbos į klientų aptarnavimo internetu tarnybą.</item>
+        <item>TECNO / „Infinix“ ID – „Xunyou Game Turbo“ paslaugas „Game Space“ / „XArena“ naudojančio žaidėjo paskyra. Prisijungus, kiekviena paskyra gali gauti atitinkamas mokesčio lengvatas ir spartinimo paslaugas.</item>
+        <item>1. Naujinkite, kad patikrintumėte mokėjimo tinklą. 2. Patikrinkite, ar pakankamas mokėjimo paskyros likutis.</item>
+        <item>Bakstelėkite saitą toliau, kad perskaitytumėte %1$s ir %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Kokia yra žaidimo turbo režimo funkcija?</item>
+        <item>Kokius žaidimus palaiko žaidimo turbo režimas?</item>
+        <item>Kokia paskyra susieta su žaidimo turbo režimu?</item>
+        <item>Kaip išspręsti mokėjimo problemas?</item>
+        <item>Kur perskaityti Privatumo politiką ir Naudotojo sutartį?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Turbo Yomochieso kwagacha ime ya Game Space/XArena na ebinto birosirie buya ase TECNO/Infinix erinde gwonchoreria omochiso bwa emetandao. Nabo ekonyara gosonsora obokong’u bwa latency ya igoro, kobutorwa, na ebinde, na kobeka enetwork bya na omochieso omuya mono. Egokonya wi-Fi na emetandao ende ya data (5G/4G/3G).</item>
+        <item>Turbo yomochieso tayari nkokonya ere emechieso emenge. Ekero ebinto binde bia emechieso tibikonyara komenteka, nabo okonyora gokwana na obokoreri bwe chikastoma omotandao bwa abakonyi.</item>
+        <item>TECNO/Infinix ID na eakaonti ya omochieso ogotumeka obokoreri XArena Turbo Yomochieso obokoreri ase ribaga ria omochieso. Kera eakaonti nabo ekonyara konyora obuya na komenta obokoreri magega ya ogosoa.</item>
+        <item>1. Orokia boyia erinde korigereria omotandao bwa ogoakana. 2. Rigereria gose ebalansi ya eakaonti ya ogoakana neisaine gokonya gwakana.</item>
+        <item>Koranche kuna elinki abwo inse osome%1$s na %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Inee meremo turbo yomochieso?</item>
+        <item>Inee turbo yomochieso nabo egokonyan mochieso ki?</item>
+        <item>Inee eakaonti ki ekageirwe na turbo yomochieso?</item>
+        <item>Enchera ya yogokora obokong’u bwa ogoakana?</item>
+        <item>Ase ogosoma Oboasiore Bwamachiko na Okoigwanana Kwomotumeki ?</item>
+    </string-array>
+</resources>

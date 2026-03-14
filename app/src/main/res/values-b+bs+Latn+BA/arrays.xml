@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Akcelerator igara ugrađen u Prostor za igre/XArena je proizvod posebno dizajniran za TECNO/Infinix kako bi se poboljšala stabilnost mreže za igre. Može riješiti probleme velike latencije, prekida veze, itd. i učiniti da mreža radi neometanije a igra stabilnije. Podržava Wi-Fi i druge mreže za prenos podataka (5G/4G/3G).</item>
+        <item>Akcelerator igara već podržava većinu igara. Ako je neke igre nemoguće ubrzati, možete kontaktirati korisničku službu na mreži za podršku.</item>
+        <item>TECNO/Infinix ID je račun igrača koji koristi usluge Xunyou Akceleratora igara u Prostoru za igre/XArena. Svaki račun može dobiti relevantne besplatne pogodnosti i usluge ubrzanja nakon prijave.</item>
+        <item>1. Osvježite da provjerite mrežu za plaćanje. 2. Provjerite da li na računu imate dovoljno sredstava da možete obaviti plaćanje.</item>
+        <item>Dodirnite donju vezu da biste pročitali dokumente %1$s i %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Koja je funkcija akceleratora igara?</item>
+        <item>Koje igre podržava akcelerator igara?</item>
+        <item>Koji račun je vezan za akcelerator igara?</item>
+        <item>Na koji način riješiti probleme s plaćanjem?</item>
+        <item>Gdje mogu pročitati Politiku privatnosti i Korisnički ugovor?</item>
+    </string-array>
+</resources>

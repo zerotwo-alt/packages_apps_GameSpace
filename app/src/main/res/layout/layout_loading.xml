@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/loading_root" android:background="@color/bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.transsion.widgetslib.view.OSLoadingView android:id="@id/loading_view" android:layout_width="34.0dip" android:layout_height="34.0dip" android:layout_marginTop="100.0dip" />
+    <ImageView android:id="@id/loading_fail_image" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="43.0dip" android:src="@drawable/ic_loading_fail" />
+    <TextView android:textSize="16.0dip" android:textColor="#a6ffffff" android:id="@id/load_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="31.0dip" android:text="@string/loading" />
+</LinearLayout>

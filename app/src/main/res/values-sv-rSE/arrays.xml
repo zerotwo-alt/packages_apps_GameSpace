@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Xunyou Game Turbo byggd i Game Space/XArena är en produkt specifikt designad för TECNO/Infinix för att förbättra spelets nätverksstabilitet. De kan lösa problem med fördröjning, frånkoppling, etc. och göra nätverket smidigare och spelet mer stabilt. Det stöder Wifi och andra datanätverk (5G/4G/3G).</item>
+        <item>Spelet turbo stöder redan de flesta spel. Om vissa spel inte kan förbättras, kan du kontakta online kundservice för hjälp.</item>
+        <item>TECNO/Infinix ID är kontot som spelaren använder i Xunyou Game Turbo services i Game Space/XArena. Varje konto kan få relevanta kostnadsfria förmåner och förbättringstjänster efter varje inloggning.</item>
+        <item>1. Uppdatera för att kontrollera betalningsnätverk. 2. Kontrollera om betalningsbalansen är tillräcklig för att stöda betalningen.</item>
+        <item>Tryck på länken nedan för att läsa %1$s och %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Vad är spelet turbos funktion?</item>
+        <item>Vilka spel stöder spelet turbo?</item>
+        <item>Vilket konto är bunden till spelet turbo?</item>
+        <item>Hur löser jag betalningsproblem?</item>
+        <item>Var kan jag läsa integritetspolicyn och användaravtalet?</item>
+    </string-array>
+</resources>

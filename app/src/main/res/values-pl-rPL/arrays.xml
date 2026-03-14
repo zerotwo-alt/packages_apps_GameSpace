@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Usługa Xunyou Game Turbo wbudowana w centrum Game Space/XArena została zaprojektowana specjalnie dla urządzeń TECNO/Infinix w celu poprawienia stabilności sieci w grach. Może rozwiązywać problemy związane z wysokimi opóźnieniami, rozłączaniem itp., zapewniając płynniejsze działanie sieci i bardziej stabilną rozgrywkę. Obsługuje Wi-Fi i inne sieci danych (5G/4G/3G).</item>
+        <item>Tryb turbo obsługuje już większość gier. Jeśli nie można przyspieszyć niektórych gier, możesz skontaktować się z działem obsługi klienta w celu uzyskania pomocy.</item>
+        <item>TECNO/Infinix ID to konto gracza korzystające z usług Xunyou Game Turbo w centrum Game Space/XArena. Każde konto po zalogowaniu może uzyskać odpowiednie bezpłatne korzyści i usługi przyspieszające.</item>
+        <item>1. Odśwież, aby sprawdzić sieć obsługującą płatność. 2. Sprawdź, czy saldo konta jest wystarczające do zrealizowania płatności.</item>
+        <item>Dotknij łącza poniżej, aby przeczytać %1$s i %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Jak działa tryb turbo w grach?</item>
+        <item>Jakie gry obsługuje tryb turbo?</item>
+        <item>Które konto jest powiązane z trybem turbo w grach?</item>
+        <item>Jak rozwiązać problemy z płatnością?</item>
+        <item>Gdzie przeczytać Politykę prywatności i Umowę z użytkownikiem?</item>
+    </string-array>
+</resources>

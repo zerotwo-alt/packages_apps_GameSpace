@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="5.0sp" android:textColor="@color/mv_tag_text_color" android:ellipsize="end" android:gravity="center" android:id="@id/txv_tag" android:background="@drawable/mv_bg_voice_tag" android:layout_width="wrap_content" android:layout_height="13.0dip" android:layout_marginTop="4.0dip" android:maxWidth="85.0dip" android:maxLines="1" android:paddingStart="5.0dip" android:paddingEnd="5.0dip" android:layout_marginEnd="3.0dip" />
+</FrameLayout>

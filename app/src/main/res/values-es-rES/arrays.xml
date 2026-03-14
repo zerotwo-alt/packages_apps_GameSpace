@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>La aplicación Xunyou Game Turbo integrada en el Espacio de juegos/XArena es un producto diseñado específicamente para TECNO/Infinix con el fin de mejorar la estabilidad de la red del juego. Puede resolver los problemas de alta latencia, desconexión, etc. y hacer que la red sea más fluida y el juego más estable. Es compatible con wifi y otras redes de datos (5G/4G/3G).</item>
+        <item>La función Turbo para juegos ya es compatible con la mayoría de los juegos. Si algunos juegos no se pueden potenciar, puedes ponerte en contacto con el servicio de atención al cliente en línea para obtener asistencia.</item>
+        <item>El identificador de TECNO/Infinix es la cuenta del jugador que utiliza los servicios de la aplicación Xunyou Game Turbo en el Espacio de juegos/XArena. Cada cuenta puede obtener beneficios gratuitos pertinentes y potenciar los servicios después de iniciar sesión.</item>
+        <item>1. Actualiza para comprobar la red de pago. 2. Comprueba si hay suficiente saldo en la cuenta de pago para respaldarlo.</item>
+        <item>Toca el enlace siguiente para leer %1$s y %2$s.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>¿Para qué sirve la función Turbo para juegos?</item>
+        <item>¿Qué juegos admite la función Turbo para juegos?</item>
+        <item>¿Qué cuenta está vinculada a la función Turbo para juegos?</item>
+        <item>¿Cómo solucionar problemas de pago?</item>
+        <item>¿Dónde se puede leer la Política de privacidad y el Acuerdo de usuario?</item>
+    </string-array>
+</resources>

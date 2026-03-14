@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="2.0dip" android:width="412.0dip" android:viewportWidth="412.0" android:viewportHeight="2.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$order_item_divider_bg__0" android:pathData="M411.96,0.27V1.27H0.29V0.27H411.96Z" android:fillAlpha="0.2" />
+</vector>

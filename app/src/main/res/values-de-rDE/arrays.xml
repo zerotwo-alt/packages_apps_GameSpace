@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answer_arr">
+        <item>Der Xunyou Game Turbo, integriert in Game Space/XArena, wurde von TECNO/Infinix zur Verbesserung der Netzwerkstabilität entwickelt. Probleme wie hohe Latenz, Verbindungsunterbrechungen usw. können so gelöst, die Netzwerkverbindung flüssiger und das Spiel stabilisiert werden. Er unterstützt WLAN und andere Datennetzwerke (5G/4G/3G)</item>
+        <item>Der Game Turbo unterstützt bereits die meisten Spiele. Wenn einige Spiele nicht verstärkt werden können, kannst du dich zur Unterstützung an den Online-Kundendienst wenden.</item>
+        <item>Die TECNO/Infinix ID ist das Konto des Spielers, der die Xunyou Game Turbo-Dienste bei Game Space/XArena verwendet. Jedes Konto kann nach der Anmeldung kostenlose Vorteile und Verstärkungsdienste erhalten.</item>
+        <item>1. Aktualisiere, um das Zahlungsnetzwerk erneut zu prüfen. 2. Überprüfe, ob das Zahlungskonto über ausreichend Guthaben für die Zahlung verfügt.</item>
+        <item>Bitte tippe auf den nachstehenden Link, um die %1$s und %2$s zu lesen.</item>
+    </string-array>
+    <string-array name="question_arr">
+        <item>Was ist die Funktion des Spieleturbos?</item>
+        <item>Welche Spiele werden vom Game Turbo unterrstützt?</item>
+        <item>Welches Konto wird mit dem Game Turbo verknüpft?</item>
+        <item>Wie können Zahlungsprobleme gelöst werden?</item>
+        <item>Wo kann ich die Datenschutzrichtlinie und die Benutzervereinbarung lesen?</item>
+    </string-array>
+</resources>
